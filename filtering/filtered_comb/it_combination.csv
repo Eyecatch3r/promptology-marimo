@@ -1,0 +1,15 @@
+ID_question,socio_dem,attribute
+q3,gender,male
+q3,age,35-49
+q3,civil_status,Ledig
+q3,education,Universität
+q4,gender,female
+q4,residence,Land
+q5,gender,female
+q5,gender,male
+q5,age,35-49
+q5,residence,Stadt
+q5,civil_status,Ledig
+q5,denomination,Evangelisch-reformiert
+q5,education,Universität
+q5,political_spectrum,Mitte und Konservativ

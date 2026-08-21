@@ -1,0 +1,10 @@
+﻿has_sociodem;gender;age;residence;civil_status;denomination;education;political_spectrum;argument_id;argument;stance;topic;language;ID_question;question;info;pro;contra
+TRUE;female;35-49;Stadt;Ledig;Evangelisch-reformiert;Universität;Mitte und Konservativ;1;It's;AGAINST;Health;de;q1;What;No;No;No
+TRUE;male;35-49;Land;Ledig;Evangelisch-reformiert;Universität;Mitte und Konservativ;2;not;FAVOR;Health;de;q1;do;idea;idea;idea
+TRUE;female;35-49;Land;Ledig;Evangelisch-reformiert;Universität;Mitte und Konservativ;3;that;FAVOR;Education;de;q2;you;what;what;what
+FALSE;;;;;;;;4;simple;AGAINST;Education;de;q2;want;this;this;this
+FALSE;;;;;;;;5;!!!;FAVOR;Health;de;q3;???;is 1;is 2;is 3
+TRUE;male;35-49;;Ledig;;Universität;;6;Same;FAVOR;Values;it;q3;Same;Same;Same;Same
+TRUE;female;;Land;;;;;7;but;AGAINST;Values;it;q4;but;but;but;but
+FALSE;male;35-49;Stadt;Ledig;;Universität;Mitte und Konservativ;8;Italian;AGAINST;Welfare state & family;it;q5;Italian;Italian;Italian;Italian
+TRUE;female;35-49;Stadt;;Evangelisch-reformiert;;Mitte und Konservativ;9;No French;FAVOR;Welfare state & family;it;q5;No French;No French;No French;No French
