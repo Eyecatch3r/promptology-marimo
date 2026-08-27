@@ -8,14 +8,19 @@ To access the LLM-generated arguments, please refer to [https://huggingface.co/d
 For full raw results of the experiments, please refer to [https://huggingface.co/datasets/mmmaurer/promptology-results](https://huggingface.co/datasets/mmmaurer/promptology-results). The dataset is licensed under the Creative Commons Attribution NonCommercial 4.0 International License (CC BY-NC 4.0).
 
 # Interactive Showcase
-`showcase.py` is a [marimo](https://github.com/marimo-team/marimo) notebook. It downloads the raw results from Hugging Face and plots the difference analysis for both feature sets, the effect sizes and the stability scores. The controls filter the plots by language, model and metric. Figures 3 and 6 of the paper come from `public/` as vector graphics.
+`showcase.py` is a [marimo](https://github.com/marimo-team/marimo) notebook. It downloads the raw results from Hugging Face and plots the difference analysis for both feature sets, the effect sizes and the stability scores. Every plot is a Vega-Lite chart. Hover a point to read its numbers, and drag across the first plot to filter the table below it. The controls filter the plots by language, model, metric, topic and stance. Four switches select a prompt condition. The page then marks that condition in the plot and shows its score for both feature sets. Figures 3 and 6 of the paper come from `public/` as vector graphics.
 
-The notebook needs three packages: `marimo`, `polars` and `matplotlib`. To create an environment for it, run:
+`test_showcase.py` checks that the columns and the condition labels on Hugging Face still match what the notebook expects:
+```bash
+python test_showcase.py
+```
+
+The notebook needs three packages: `marimo`, `polars` and `altair`. To create an environment for it, run:
 ```bash
 python -m venv .venv
 ```
 ```bash
-.venv/Scripts/pip install marimo polars matplotlib
+.venv/Scripts/pip install marimo polars altair
 ```
 On Linux and macOS, replace `.venv/Scripts/` with `.venv/bin/`.
 

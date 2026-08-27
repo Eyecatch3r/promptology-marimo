@@ -5,6 +5,7 @@ description = "Code and data for the paper 'Promptology: Large-Scale Systematic 
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "altair>=5.5",
     "arviz>=0.23.4",
     "bambi>=0.17.2",
     "bert-score>=0.3.13",
