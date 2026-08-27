@@ -7,6 +7,34 @@ To access the LLM-generated arguments, please refer to [https://huggingface.co/d
 # Raw Results
 For full raw results of the experiments, please refer to [https://huggingface.co/datasets/mmmaurer/promptology-results](https://huggingface.co/datasets/mmmaurer/promptology-results). The dataset is licensed under the Creative Commons Attribution NonCommercial 4.0 International License (CC BY-NC 4.0).
 
+# Interactive Showcase
+`showcase.py` is a [marimo](https://github.com/marimo-team/marimo) notebook. It downloads the raw results from Hugging Face and plots the difference analysis for both feature sets, the effect sizes and the stability scores. The controls filter the plots by language, model and metric. Figures 3 and 6 of the paper come from `public/` as vector graphics.
+
+The notebook needs three packages: `marimo`, `polars` and `matplotlib`. To create an environment for it, run:
+```bash
+python -m venv .venv
+```
+```bash
+.venv/Scripts/pip install marimo polars matplotlib
+```
+On Linux and macOS, replace `.venv/Scripts/` with `.venv/bin/`.
+
+To open the notebook, activate the environment and run:
+```bash
+marimo edit showcase.py
+```
+
+With `uv`, one command replaces all three steps:
+```bash
+uvx marimo edit --sandbox showcase.py
+```
+
+To build a static page that runs in the browser without Python, run:
+```bash
+marimo export html-wasm showcase.py -o _site --mode run
+```
+The export needs `uv` on the path. Serve the `_site` directory, for example with GitHub Pages.
+
 # Repository Structure
 The repository is organized as follows:
 
