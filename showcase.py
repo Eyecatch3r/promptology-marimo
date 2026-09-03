@@ -144,6 +144,36 @@ def _(mo):
 
 
 @app.cell
+def _(mo):
+    mo.accordion(
+        {
+            "Glossary": mo.md("""
+            Two blocks sit in every prompt: the **issue**, which is the political
+            question, and the **instruction**, which asks for a comment of up to 500
+            characters. The four elements above switch on and off around them.
+
+            - **Default** is a prompt with the issue and the instruction only.
+            - **BA** is balanced accuracy: the mean of the true positive rate and the
+              true negative rate. The study uses it because the classes are imbalanced.
+              A value of 0.5 means that the classifier cannot separate the two sources.
+            - **HDI** is the highest density interval, the Bayesian counterpart of a
+              confidence interval. An interval that excludes zero marks a credible
+              effect.
+            - **SBERT** is a sentence embedding model. It stands for semantics, so for
+              what an argument says.
+            - **elfen** is the package that extracts the 160 linguistic features in 11
+              areas. They stand for style, so for how an argument says it.
+            - **Rouge-L** counts the longest common subsequence between two outputs. It
+              measures repetition on the surface.
+            - **BERTScore** compares embeddings of two outputs. It measures repetition
+              of meaning.
+            """)
+        }
+    )
+    return
+
+
+@app.cell
 def _(load, mo):
     topics = sorted(load("rq1_sbert_results.csv", sep=";")["topic"].unique())
 
