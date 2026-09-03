@@ -10,6 +10,12 @@ For full raw results of the experiments, please refer to [https://huggingface.co
 # Interactive Showcase
 `showcase.py` is a [marimo](https://github.com/marimo-team/marimo) notebook. It downloads the raw results from Hugging Face and plots the difference analysis for both feature sets, the effect sizes and the stability scores. Every plot is a Vega-Lite chart. Hover a point to read its numbers, and drag across the first plot to filter the table below it. The controls filter the plots by language, model, metric, topic and stance. Four switches select a prompt condition. The page then marks that condition in the plot and shows its score for both feature sets. Figures 3 and 6 of the paper come from `public/` as vector graphics.
 
+A second section explores the prompts themselves: the counts per element combination, the sociodemographic groups per dimension, a real prompt for every condition, and a searchable table of the prompts in the selected condition. `build_prompt_data.py` writes the three small files that this section reads:
+```bash
+python build_prompt_data.py
+```
+The files in `prompts/` are 84 MB, because every row repeats the question and the argument blocks. The files in `public/` hold the same 32,164 prompts in 2.9 MB.
+
 `test_showcase.py` checks that the columns and the condition labels on Hugging Face still match what the notebook expects:
 ```bash
 python test_showcase.py

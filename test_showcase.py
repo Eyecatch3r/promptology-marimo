@@ -44,6 +44,21 @@ def test_summary_columns_for_the_forest_plot():
     assert "sociodemographics" in set(summary["term"])
 
 
+def test_prompt_files_in_public():
+    """build_prompt_data.py writes these. showcase.py reads them from public/."""
+    design = pl.read_csv("public/prompt_design.csv")
+    questions = pl.read_csv("public/prompt_questions.csv")
+    examples = pl.read_csv("public/prompt_examples.csv")
+
+    assert design.height == 32164, design.height
+    assert {"language", "qid", "stance", "condition", "dimension", "group", "chars"} <= set(
+        design.columns
+    )
+    assert questions.height == 120
+    assert design["condition"].n_unique() == 16
+    assert set(examples["condition"]) == set(design["condition"])
+
+
 if __name__ == "__main__":
     for name, test in sorted(globals().items()):
         if name.startswith("test_"):

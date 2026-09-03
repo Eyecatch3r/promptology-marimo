@@ -1,0 +1,1114 @@
+language,condition,stance,qid,prompt,group
+de,SD,FAVOR,7,"Sie gehören der folgenden soziodemografischen Gruppe an: Geschlecht - Männlich.
+
+Sie werden nach dem folgenden politischen Thema gefragt: Bei Ehepaaren ist die Höhe der Rente heute auf 150% der maximalen individuellen AHV-Rente begrenzt (Plafonierung). Soll diese Begrenzung abgeschafft werden?
+
+Schreiben Sie einen Kommentar pro die oben genannte politische Frage. Sie können bis zu 500 Zeichen verwenden.",Männlich
+de,SD,AGAINST,2,"Sie gehören der folgenden soziodemografischen Gruppe an: Konfession - Evangelisch-reformiert.
+
+Sie werden nach dem folgenden politischen Thema gefragt: Befürworten Sie eine stärkere Regulierung grosser Internetplattformen (Transparenz-Regeln bei Algorithmen, verstärkte Haftung für Inhalte, Bekämpfung von Desinformation)?
+
+Schreiben Sie einen Kommentar kontra die oben genannte politische Frage. Sie können bis zu 500 Zeichen verwenden.",Evangelisch-reformiert
+de,C + SD,FAVOR,35,"Sie sind ein Schweizer Politiker, der einen Fragebogen über seine politischen Überzeugungen für eine Wahlhilfe-App im Kontext einer Nationalratswahl ausfüllt.
+Sie gehören der folgenden soziodemografischen Gruppe an: Familienstand - Getrennt.
+
+Sie werden nach dem folgenden politischen Thema gefragt: Wie beurteilen Sie folgende Aussage: ""Die fortschreitende Digitalisierung bietet mehr Chancen als Risiken.""
+
+Schreiben Sie einen Kommentar pro die oben genannte politische Frage. Sie können bis zu 500 Zeichen verwenden.",Getrennt
+de,C + SD,AGAINST,34,"Sie sind ein Schweizer Politiker, der einen Fragebogen über seine politischen Überzeugungen für eine Wahlhilfe-App im Kontext einer Nationalratswahl ausfüllt.
+Sie gehören der folgenden soziodemografischen Gruppe an: Wohnort - Stadt.
+
+Sie werden nach dem folgenden politischen Thema gefragt: Wie beurteilen Sie folgende Aussage: ""Die Bestrafung Krimineller ist wichtiger als deren Wiedereingliederung in die Gesellschaft.""
+
+Schreiben Sie einen Kommentar kontra die oben genannte politische Frage. Sie können bis zu 500 Zeichen verwenden.",Stadt
+de,Default,AGAINST,34,"Sie werden nach dem folgenden politischen Thema gefragt: Wie beurteilen Sie folgende Aussage: ""Die Bestrafung Krimineller ist wichtiger als deren Wiedereingliederung in die Gesellschaft.""
+
+Schreiben Sie einen Kommentar kontra die oben genannte politische Frage. Sie können bis zu 500 Zeichen verwenden.",none
+de,Default,FAVOR,38,"Sie werden nach dem folgenden politischen Thema gefragt: Wie beurteilen Sie folgende Aussage: ""Für ein Kind ist es am besten, wenn ein Elternteil Vollzeit für die Kinderbetreuung zu Hause bleibt.""
+
+Schreiben Sie einen Kommentar pro die oben genannte politische Frage. Sie können bis zu 500 Zeichen verwenden.",none
+de,C + SD + Ex,FAVOR,7,"Sie sind ein Schweizer Politiker, der einen Fragebogen über seine politischen Überzeugungen für eine Wahlhilfe-App im Kontext einer Nationalratswahl ausfüllt.
+Sie gehören der folgenden soziodemografischen Gruppe an: Geschlecht - Männlich.
+
+Sie werden nach dem folgenden politischen Thema gefragt: Bei Ehepaaren ist die Höhe der Rente heute auf 150% der maximalen individuellen AHV-Rente begrenzt (Plafonierung). Soll diese Begrenzung abgeschafft werden?
+
+Folgendes ist eine Erklärung des politischen Themas:
+Die AHV ist die Erste Säule der Altersvorsorge. Die 1. Säule soll den Rentner/-innen ein Einkommen garantieren, das die Grundbedürfnisse in der Zeit nach der Pensionierung deckt. Gegenwärtig beträgt die minimale Altersrente für eine Einzelperson monatlich 1225 Franken; die Maximalrente beläuft sich auf 2450 Franken.
+Bei Ehepaaren sieht das AHV-Gesetz vor, dass die Summe der Einzelrenten den Betrag von 3675 Franken nicht überschreiten darf. Dies entspricht 150% der maximalen Einzelrente (2450 Franken). Grundsätzlich werden die Renten eines Ehepaars getrennt voneinander ausbezahlt. Überschreiten die jeweiligen Einzelrenten eines Ehepaars den Betrag von 3675 Franken, werden die Renten gekürzt. Das heißt, Ehepaare erhalten als Einzelpersonen weniger Rente, wenn sich die Summe ihrer Einzelrenten auf über 3675 Franken beläuft.
+
+Schreiben Sie einen Kommentar pro die oben genannte politische Frage. Sie können bis zu 500 Zeichen verwenden.",Männlich
+de,C + Ex,FAVOR,7,"Sie sind ein Schweizer Politiker, der einen Fragebogen über seine politischen Überzeugungen für eine Wahlhilfe-App im Kontext einer Nationalratswahl ausfüllt.
+
+
+Sie werden nach dem folgenden politischen Thema gefragt: Bei Ehepaaren ist die Höhe der Rente heute auf 150% der maximalen individuellen AHV-Rente begrenzt (Plafonierung). Soll diese Begrenzung abgeschafft werden?
+
+Folgendes ist eine Erklärung des politischen Themas:
+Die AHV ist die Erste Säule der Altersvorsorge. Die 1. Säule soll den Rentner/-innen ein Einkommen garantieren, das die Grundbedürfnisse in der Zeit nach der Pensionierung deckt. Gegenwärtig beträgt die minimale Altersrente für eine Einzelperson monatlich 1225 Franken; die Maximalrente beläuft sich auf 2450 Franken.
+Bei Ehepaaren sieht das AHV-Gesetz vor, dass die Summe der Einzelrenten den Betrag von 3675 Franken nicht überschreiten darf. Dies entspricht 150% der maximalen Einzelrente (2450 Franken). Grundsätzlich werden die Renten eines Ehepaars getrennt voneinander ausbezahlt. Überschreiten die jeweiligen Einzelrenten eines Ehepaars den Betrag von 3675 Franken, werden die Renten gekürzt. Das heißt, Ehepaare erhalten als Einzelpersonen weniger Rente, wenn sich die Summe ihrer Einzelrenten auf über 3675 Franken beläuft.
+
+Schreiben Sie einen Kommentar pro die oben genannte politische Frage. Sie können bis zu 500 Zeichen verwenden.",none
+de,C + SD + Ex,AGAINST,13,"Sie sind ein Schweizer Politiker, der einen Fragebogen über seine politischen Überzeugungen für eine Wahlhilfe-App im Kontext einer Nationalratswahl ausfüllt.
+Sie gehören der folgenden soziodemografischen Gruppe an: Geschlecht - Männlich.
+
+Sie werden nach dem folgenden politischen Thema gefragt: Soll der Bund die Kompetenz zur Festlegung des Spitalangebots erhalten (nationale Spitalplanung bzgl. Standorte und Leistungsangebot)?
+
+Folgendes ist eine Erklärung des politischen Themas:
+Für die Spitalplanung in der Schweiz sind primär die Kantone zuständig. Die Kantone bestimmen gestützt auf Kriterien der Wirtschaftlichkeit und der Qualität, welche Spitäler zur Krankenversicherung zugelassen sind. Dazu werden von den Kantonen sogenannte Spitallisten erstellt, wo festgehalten wird, welche Spitäler welchen Leistungsauftrag erhalten. Angestrebt wird eine Konzentration der Leistungserbringung, wodurch die Kosten gesenkt und die medizinische Qualität gesteigert werden sollen.
+Die Branche ist sich einig, dass es in der Schweiz ein Spital-Überangebot gibt und das Potential besteht, die Effizienz in der Gesundheitsversorgung durch kantonsübergreifende Kooperation zu verbessern. Trotz verschiedener Massnahmen wie die Einführung sogenannter Fallpauschalen bei der Finanzierung der Spitäler, sind bislang kaum Spitalschliessungen zu verzeichnen.
+Pläne zur Streichung eines Spitals von der kantonalen Spitalliste - was vielerorts einer Schliessung gleichkommen dürfte - werden insbesondere in ländlichen Regionen von heftigen Protesten begleitet. Zudem subventionieren die Kantone aus regionalpolitischen Gründen immer wieder die eigene Spitalinfrastruktur, was den Wettbewerb zwischen den Spitälern verfälscht.
+In der Schweiz gibt es rund 276 Spitäler mit 37'845 Betten (Stand 2021). Die durchschnittliche Gesamtauslastung liegt in der Regel unter der geforderten Auslastung von rund 85% für einen wirtschaftlichen Betrieb.
+
+Schreiben Sie einen Kommentar kontra die oben genannte politische Frage. Sie können bis zu 500 Zeichen verwenden.",Männlich
+de,C + Ex,AGAINST,13,"Sie sind ein Schweizer Politiker, der einen Fragebogen über seine politischen Überzeugungen für eine Wahlhilfe-App im Kontext einer Nationalratswahl ausfüllt.
+
+
+Sie werden nach dem folgenden politischen Thema gefragt: Soll der Bund die Kompetenz zur Festlegung des Spitalangebots erhalten (nationale Spitalplanung bzgl. Standorte und Leistungsangebot)?
+
+Folgendes ist eine Erklärung des politischen Themas:
+Für die Spitalplanung in der Schweiz sind primär die Kantone zuständig. Die Kantone bestimmen gestützt auf Kriterien der Wirtschaftlichkeit und der Qualität, welche Spitäler zur Krankenversicherung zugelassen sind. Dazu werden von den Kantonen sogenannte Spitallisten erstellt, wo festgehalten wird, welche Spitäler welchen Leistungsauftrag erhalten. Angestrebt wird eine Konzentration der Leistungserbringung, wodurch die Kosten gesenkt und die medizinische Qualität gesteigert werden sollen.
+Die Branche ist sich einig, dass es in der Schweiz ein Spital-Überangebot gibt und das Potential besteht, die Effizienz in der Gesundheitsversorgung durch kantonsübergreifende Kooperation zu verbessern. Trotz verschiedener Massnahmen wie die Einführung sogenannter Fallpauschalen bei der Finanzierung der Spitäler, sind bislang kaum Spitalschliessungen zu verzeichnen.
+Pläne zur Streichung eines Spitals von der kantonalen Spitalliste - was vielerorts einer Schliessung gleichkommen dürfte - werden insbesondere in ländlichen Regionen von heftigen Protesten begleitet. Zudem subventionieren die Kantone aus regionalpolitischen Gründen immer wieder die eigene Spitalinfrastruktur, was den Wettbewerb zwischen den Spitälern verfälscht.
+In der Schweiz gibt es rund 276 Spitäler mit 37'845 Betten (Stand 2021). Die durchschnittliche Gesamtauslastung liegt in der Regel unter der geforderten Auslastung von rund 85% für einen wirtschaftlichen Betrieb.
+
+Schreiben Sie einen Kommentar kontra die oben genannte politische Frage. Sie können bis zu 500 Zeichen verwenden.",none
+de,C + SD + P&C,FAVOR,7,"Sie sind ein Schweizer Politiker, der einen Fragebogen über seine politischen Überzeugungen für eine Wahlhilfe-App im Kontext einer Nationalratswahl ausfüllt.
+Sie gehören der folgenden soziodemografischen Gruppe an: Geschlecht - Männlich.
+
+Sie werden nach dem folgenden politischen Thema gefragt: Bei Ehepaaren ist die Höhe der Rente heute auf 150% der maximalen individuellen AHV-Rente begrenzt (Plafonierung). Soll diese Begrenzung abgeschafft werden?
+
+Folgende sind gängige Argumente für das politische Thema:
+Die Plafonierung der AHV benachteiligt Ehepaare im Vergleich zu Einzelpersonen. Dies ist ungerecht, da der Zivilstand nicht die Höhe des Wohlstands bestimmen sollte.
+Gegner/-innen der Aufhebung argumentieren, dass Ehepaare über andere Privilegien bei den Renten verfügen (s. auch unten).  Diese gleichen die Benachteiligung durch die Plafonierung aber nicht aus. Beispielsweise begünstigt der Umstand, dass beide Ehepartner versichert sind, auch wenn nur eine Person AHV-Beiträge leistet, nur Paare in einem traditionellen Familienmodell. Der Verweis auf die Witwer- bzw. Witwenrente ist auch mangelhaft, da diese erst mit dem Tod des/der Partner/-in eintritt.
+Folgende sind gängige Argumente gegen das politische Thema:
+Die Aufhebung der Plafonierung belastet die AHV finanziell und gefährdet deren langfristige Stabilität.
+Bei der Plafonierung handelt es sich um eine ungleiche, aber nicht ungerechte Behandlung von Ehepaaren. Ehepaare geniessen andere Vorteile in der AHV, sowie auch in anderen Sozialversicherungen: Beispielsweise bleiben beide Personen versichert, auch wenn nur eine Person AHV-Beiträge bezahlt, und nur Ehepaare haben Anspruch auf eine Witwer- bzw. Witwenrente.
+Ehepaare teilen in der Regel ihre Fixkosten (z.B. Miete). Sie benötigen insgesamt deshalb weniger Geld als zwei Einzelpersonen, die zwei eigene Haushalte führen.
+
+Schreiben Sie einen Kommentar pro die oben genannte politische Frage. Sie können bis zu 500 Zeichen verwenden.",Männlich
+de,C + P&C,FAVOR,7,"Sie sind ein Schweizer Politiker, der einen Fragebogen über seine politischen Überzeugungen für eine Wahlhilfe-App im Kontext einer Nationalratswahl ausfüllt.
+
+
+Sie werden nach dem folgenden politischen Thema gefragt: Bei Ehepaaren ist die Höhe der Rente heute auf 150% der maximalen individuellen AHV-Rente begrenzt (Plafonierung). Soll diese Begrenzung abgeschafft werden?
+
+Folgende sind gängige Argumente für das politische Thema:
+Die Plafonierung der AHV benachteiligt Ehepaare im Vergleich zu Einzelpersonen. Dies ist ungerecht, da der Zivilstand nicht die Höhe des Wohlstands bestimmen sollte.
+Gegner/-innen der Aufhebung argumentieren, dass Ehepaare über andere Privilegien bei den Renten verfügen (s. auch unten).  Diese gleichen die Benachteiligung durch die Plafonierung aber nicht aus. Beispielsweise begünstigt der Umstand, dass beide Ehepartner versichert sind, auch wenn nur eine Person AHV-Beiträge leistet, nur Paare in einem traditionellen Familienmodell. Der Verweis auf die Witwer- bzw. Witwenrente ist auch mangelhaft, da diese erst mit dem Tod des/der Partner/-in eintritt.
+Folgende sind gängige Argumente gegen das politische Thema:
+Die Aufhebung der Plafonierung belastet die AHV finanziell und gefährdet deren langfristige Stabilität.
+Bei der Plafonierung handelt es sich um eine ungleiche, aber nicht ungerechte Behandlung von Ehepaaren. Ehepaare geniessen andere Vorteile in der AHV, sowie auch in anderen Sozialversicherungen: Beispielsweise bleiben beide Personen versichert, auch wenn nur eine Person AHV-Beiträge bezahlt, und nur Ehepaare haben Anspruch auf eine Witwer- bzw. Witwenrente.
+Ehepaare teilen in der Regel ihre Fixkosten (z.B. Miete). Sie benötigen insgesamt deshalb weniger Geld als zwei Einzelpersonen, die zwei eigene Haushalte führen.
+
+Schreiben Sie einen Kommentar pro die oben genannte politische Frage. Sie können bis zu 500 Zeichen verwenden.",none
+de,C + SD + P&C,AGAINST,13,"Sie sind ein Schweizer Politiker, der einen Fragebogen über seine politischen Überzeugungen für eine Wahlhilfe-App im Kontext einer Nationalratswahl ausfüllt.
+Sie gehören der folgenden soziodemografischen Gruppe an: Geschlecht - Männlich.
+
+Sie werden nach dem folgenden politischen Thema gefragt: Soll der Bund die Kompetenz zur Festlegung des Spitalangebots erhalten (nationale Spitalplanung bzgl. Standorte und Leistungsangebot)?
+
+Folgende sind gängige Argumente für das politische Thema:
+Die steigenden Gesundheitskosten lassen sich nur koordiniert und kantonsübergreifend angehen, aber die Kantone finden alleine seit mehr als zehn Jahren keine Lösung. Es herrscht kurzfristiges Denken & Kantönligeist, womit ineffiziente Doppelspurigkeiten im Gesundheitssystem weiterhin bestehen bleiben. 
+Kantone greifen heute aktiv in den Erhalt von Spitälern ein, indem sie einerseits die Behandlung ausserhalb des Wohnkantons teurer machen und andererseits durch Subventionen Spitäler direkt unterstützen. Wenn jedoch Spitäler mit den Fallpauschalen ihre Behandlung nicht ausreichend finanzieren können, sollten sie ab- und nicht ausgebaut werden.
+Dass im Spitalbereich ein Überangebot besteht, ist unbestritten. Deshalb kann man die Anzahl Spitäler ohne weiteres reduzieren, ohne dass die Versorgungssicherheit gefährdet würde. Darüber hinaus besteht ein Zusammenhang zwischen der Zahl der behandelten Fälle, der gesammelten Erfahrung und der Qualität der ärztlichen Behandlung. So bieten kleinere Spitäler ohne die nötige Routine und Erfahrung für viele Eingriffe eine schlechtere Behandlung als grössere Spitäler. Spitalschliessungen würden somit auch die Behandlung für jeden Einzelnen verbessern.
+Folgende sind gängige Argumente gegen das politische Thema:
+Spitalschliessungen dürfen nie losgelöst von der Frage beurteilt werden, wo die verbleibenden Patient/-innen künftig behandelt werden. Sprachliche und kulturelle Unterschiede zwischen den Landesteilen, welche für die Patient/-innen eine grosse Rolle spielen, müssen berücksichtigt werden. Regional werden gerade kleine Spitäler von den Patient/-innen geschätzt und gelten auch als wichtige Arbeitgeber.
+Bei einer Schliessung von Spitälern drohen ein Bettenmangel im Akutbereich und verlängerte Wartezeiten. Dies kann zu einer medizinischen Unterversorgung und damit zu einem Anstieg von Krankheits- und Sterbefällen führen.
+Die Anzahl der Spitäler ist nicht entscheidend. Wichtiger sind die Gesamtkapazität, die Preise und die transparente Qualität. Wegen des mangelnden Wettbewerbs sind die Preise noch immer zu hoch. Somit sind nicht Schliessungen das Ziel, sondern eine effizientere Spitalplanung. So hätten auch kleinere Spitäler eine Chance, wenn sie sich spezialisieren.
+
+Schreiben Sie einen Kommentar kontra die oben genannte politische Frage. Sie können bis zu 500 Zeichen verwenden.",Männlich
+de,C + P&C,AGAINST,13,"Sie sind ein Schweizer Politiker, der einen Fragebogen über seine politischen Überzeugungen für eine Wahlhilfe-App im Kontext einer Nationalratswahl ausfüllt.
+
+
+Sie werden nach dem folgenden politischen Thema gefragt: Soll der Bund die Kompetenz zur Festlegung des Spitalangebots erhalten (nationale Spitalplanung bzgl. Standorte und Leistungsangebot)?
+
+Folgende sind gängige Argumente für das politische Thema:
+Die steigenden Gesundheitskosten lassen sich nur koordiniert und kantonsübergreifend angehen, aber die Kantone finden alleine seit mehr als zehn Jahren keine Lösung. Es herrscht kurzfristiges Denken & Kantönligeist, womit ineffiziente Doppelspurigkeiten im Gesundheitssystem weiterhin bestehen bleiben. 
+Kantone greifen heute aktiv in den Erhalt von Spitälern ein, indem sie einerseits die Behandlung ausserhalb des Wohnkantons teurer machen und andererseits durch Subventionen Spitäler direkt unterstützen. Wenn jedoch Spitäler mit den Fallpauschalen ihre Behandlung nicht ausreichend finanzieren können, sollten sie ab- und nicht ausgebaut werden.
+Dass im Spitalbereich ein Überangebot besteht, ist unbestritten. Deshalb kann man die Anzahl Spitäler ohne weiteres reduzieren, ohne dass die Versorgungssicherheit gefährdet würde. Darüber hinaus besteht ein Zusammenhang zwischen der Zahl der behandelten Fälle, der gesammelten Erfahrung und der Qualität der ärztlichen Behandlung. So bieten kleinere Spitäler ohne die nötige Routine und Erfahrung für viele Eingriffe eine schlechtere Behandlung als grössere Spitäler. Spitalschliessungen würden somit auch die Behandlung für jeden Einzelnen verbessern.
+Folgende sind gängige Argumente gegen das politische Thema:
+Spitalschliessungen dürfen nie losgelöst von der Frage beurteilt werden, wo die verbleibenden Patient/-innen künftig behandelt werden. Sprachliche und kulturelle Unterschiede zwischen den Landesteilen, welche für die Patient/-innen eine grosse Rolle spielen, müssen berücksichtigt werden. Regional werden gerade kleine Spitäler von den Patient/-innen geschätzt und gelten auch als wichtige Arbeitgeber.
+Bei einer Schliessung von Spitälern drohen ein Bettenmangel im Akutbereich und verlängerte Wartezeiten. Dies kann zu einer medizinischen Unterversorgung und damit zu einem Anstieg von Krankheits- und Sterbefällen führen.
+Die Anzahl der Spitäler ist nicht entscheidend. Wichtiger sind die Gesamtkapazität, die Preise und die transparente Qualität. Wegen des mangelnden Wettbewerbs sind die Preise noch immer zu hoch. Somit sind nicht Schliessungen das Ziel, sondern eine effizientere Spitalplanung. So hätten auch kleinere Spitäler eine Chance, wenn sie sich spezialisieren.
+
+Schreiben Sie einen Kommentar kontra die oben genannte politische Frage. Sie können bis zu 500 Zeichen verwenden.",none
+de,C + SD + Ex + P&C,FAVOR,7,"Sie sind ein Schweizer Politiker, der einen Fragebogen über seine politischen Überzeugungen für eine Wahlhilfe-App im Kontext einer Nationalratswahl ausfüllt.
+Sie gehören der folgenden soziodemografischen Gruppe an: Geschlecht - Männlich.
+
+Sie werden nach dem folgenden politischen Thema gefragt: Bei Ehepaaren ist die Höhe der Rente heute auf 150% der maximalen individuellen AHV-Rente begrenzt (Plafonierung). Soll diese Begrenzung abgeschafft werden?
+
+Folgendes ist eine Erklärung des politischen Themas:
+Die AHV ist die Erste Säule der Altersvorsorge. Die 1. Säule soll den Rentner/-innen ein Einkommen garantieren, das die Grundbedürfnisse in der Zeit nach der Pensionierung deckt. Gegenwärtig beträgt die minimale Altersrente für eine Einzelperson monatlich 1225 Franken; die Maximalrente beläuft sich auf 2450 Franken.
+Bei Ehepaaren sieht das AHV-Gesetz vor, dass die Summe der Einzelrenten den Betrag von 3675 Franken nicht überschreiten darf. Dies entspricht 150% der maximalen Einzelrente (2450 Franken). Grundsätzlich werden die Renten eines Ehepaars getrennt voneinander ausbezahlt. Überschreiten die jeweiligen Einzelrenten eines Ehepaars den Betrag von 3675 Franken, werden die Renten gekürzt. Das heißt, Ehepaare erhalten als Einzelpersonen weniger Rente, wenn sich die Summe ihrer Einzelrenten auf über 3675 Franken beläuft.
+
+Folgende sind gängige Argumente für das politische Thema:
+Die Plafonierung der AHV benachteiligt Ehepaare im Vergleich zu Einzelpersonen. Dies ist ungerecht, da der Zivilstand nicht die Höhe des Wohlstands bestimmen sollte.
+Gegner/-innen der Aufhebung argumentieren, dass Ehepaare über andere Privilegien bei den Renten verfügen (s. auch unten).  Diese gleichen die Benachteiligung durch die Plafonierung aber nicht aus. Beispielsweise begünstigt der Umstand, dass beide Ehepartner versichert sind, auch wenn nur eine Person AHV-Beiträge leistet, nur Paare in einem traditionellen Familienmodell. Der Verweis auf die Witwer- bzw. Witwenrente ist auch mangelhaft, da diese erst mit dem Tod des/der Partner/-in eintritt.
+Folgende sind gängige Argumente gegen das politische Thema:
+Die Aufhebung der Plafonierung belastet die AHV finanziell und gefährdet deren langfristige Stabilität.
+Bei der Plafonierung handelt es sich um eine ungleiche, aber nicht ungerechte Behandlung von Ehepaaren. Ehepaare geniessen andere Vorteile in der AHV, sowie auch in anderen Sozialversicherungen: Beispielsweise bleiben beide Personen versichert, auch wenn nur eine Person AHV-Beiträge bezahlt, und nur Ehepaare haben Anspruch auf eine Witwer- bzw. Witwenrente.
+Ehepaare teilen in der Regel ihre Fixkosten (z.B. Miete). Sie benötigen insgesamt deshalb weniger Geld als zwei Einzelpersonen, die zwei eigene Haushalte führen.
+
+Schreiben Sie einen Kommentar pro die oben genannte politische Frage. Sie können bis zu 500 Zeichen verwenden.",Männlich
+de,C + Ex + P&C,FAVOR,7,"Sie sind ein Schweizer Politiker, der einen Fragebogen über seine politischen Überzeugungen für eine Wahlhilfe-App im Kontext einer Nationalratswahl ausfüllt.
+
+
+Sie werden nach dem folgenden politischen Thema gefragt: Bei Ehepaaren ist die Höhe der Rente heute auf 150% der maximalen individuellen AHV-Rente begrenzt (Plafonierung). Soll diese Begrenzung abgeschafft werden?
+
+Folgendes ist eine Erklärung des politischen Themas:
+Die AHV ist die Erste Säule der Altersvorsorge. Die 1. Säule soll den Rentner/-innen ein Einkommen garantieren, das die Grundbedürfnisse in der Zeit nach der Pensionierung deckt. Gegenwärtig beträgt die minimale Altersrente für eine Einzelperson monatlich 1225 Franken; die Maximalrente beläuft sich auf 2450 Franken.
+Bei Ehepaaren sieht das AHV-Gesetz vor, dass die Summe der Einzelrenten den Betrag von 3675 Franken nicht überschreiten darf. Dies entspricht 150% der maximalen Einzelrente (2450 Franken). Grundsätzlich werden die Renten eines Ehepaars getrennt voneinander ausbezahlt. Überschreiten die jeweiligen Einzelrenten eines Ehepaars den Betrag von 3675 Franken, werden die Renten gekürzt. Das heißt, Ehepaare erhalten als Einzelpersonen weniger Rente, wenn sich die Summe ihrer Einzelrenten auf über 3675 Franken beläuft.
+
+Folgende sind gängige Argumente für das politische Thema:
+Die Plafonierung der AHV benachteiligt Ehepaare im Vergleich zu Einzelpersonen. Dies ist ungerecht, da der Zivilstand nicht die Höhe des Wohlstands bestimmen sollte.
+Gegner/-innen der Aufhebung argumentieren, dass Ehepaare über andere Privilegien bei den Renten verfügen (s. auch unten).  Diese gleichen die Benachteiligung durch die Plafonierung aber nicht aus. Beispielsweise begünstigt der Umstand, dass beide Ehepartner versichert sind, auch wenn nur eine Person AHV-Beiträge leistet, nur Paare in einem traditionellen Familienmodell. Der Verweis auf die Witwer- bzw. Witwenrente ist auch mangelhaft, da diese erst mit dem Tod des/der Partner/-in eintritt.
+Folgende sind gängige Argumente gegen das politische Thema:
+Die Aufhebung der Plafonierung belastet die AHV finanziell und gefährdet deren langfristige Stabilität.
+Bei der Plafonierung handelt es sich um eine ungleiche, aber nicht ungerechte Behandlung von Ehepaaren. Ehepaare geniessen andere Vorteile in der AHV, sowie auch in anderen Sozialversicherungen: Beispielsweise bleiben beide Personen versichert, auch wenn nur eine Person AHV-Beiträge bezahlt, und nur Ehepaare haben Anspruch auf eine Witwer- bzw. Witwenrente.
+Ehepaare teilen in der Regel ihre Fixkosten (z.B. Miete). Sie benötigen insgesamt deshalb weniger Geld als zwei Einzelpersonen, die zwei eigene Haushalte führen.
+
+Schreiben Sie einen Kommentar pro die oben genannte politische Frage. Sie können bis zu 500 Zeichen verwenden.",none
+de,C + SD + Ex + P&C,AGAINST,13,"Sie sind ein Schweizer Politiker, der einen Fragebogen über seine politischen Überzeugungen für eine Wahlhilfe-App im Kontext einer Nationalratswahl ausfüllt.
+Sie gehören der folgenden soziodemografischen Gruppe an: Geschlecht - Männlich.
+
+Sie werden nach dem folgenden politischen Thema gefragt: Soll der Bund die Kompetenz zur Festlegung des Spitalangebots erhalten (nationale Spitalplanung bzgl. Standorte und Leistungsangebot)?
+
+Folgendes ist eine Erklärung des politischen Themas:
+Für die Spitalplanung in der Schweiz sind primär die Kantone zuständig. Die Kantone bestimmen gestützt auf Kriterien der Wirtschaftlichkeit und der Qualität, welche Spitäler zur Krankenversicherung zugelassen sind. Dazu werden von den Kantonen sogenannte Spitallisten erstellt, wo festgehalten wird, welche Spitäler welchen Leistungsauftrag erhalten. Angestrebt wird eine Konzentration der Leistungserbringung, wodurch die Kosten gesenkt und die medizinische Qualität gesteigert werden sollen.
+Die Branche ist sich einig, dass es in der Schweiz ein Spital-Überangebot gibt und das Potential besteht, die Effizienz in der Gesundheitsversorgung durch kantonsübergreifende Kooperation zu verbessern. Trotz verschiedener Massnahmen wie die Einführung sogenannter Fallpauschalen bei der Finanzierung der Spitäler, sind bislang kaum Spitalschliessungen zu verzeichnen.
+Pläne zur Streichung eines Spitals von der kantonalen Spitalliste - was vielerorts einer Schliessung gleichkommen dürfte - werden insbesondere in ländlichen Regionen von heftigen Protesten begleitet. Zudem subventionieren die Kantone aus regionalpolitischen Gründen immer wieder die eigene Spitalinfrastruktur, was den Wettbewerb zwischen den Spitälern verfälscht.
+In der Schweiz gibt es rund 276 Spitäler mit 37'845 Betten (Stand 2021). Die durchschnittliche Gesamtauslastung liegt in der Regel unter der geforderten Auslastung von rund 85% für einen wirtschaftlichen Betrieb.
+
+Folgende sind gängige Argumente für das politische Thema:
+Die steigenden Gesundheitskosten lassen sich nur koordiniert und kantonsübergreifend angehen, aber die Kantone finden alleine seit mehr als zehn Jahren keine Lösung. Es herrscht kurzfristiges Denken & Kantönligeist, womit ineffiziente Doppelspurigkeiten im Gesundheitssystem weiterhin bestehen bleiben. 
+Kantone greifen heute aktiv in den Erhalt von Spitälern ein, indem sie einerseits die Behandlung ausserhalb des Wohnkantons teurer machen und andererseits durch Subventionen Spitäler direkt unterstützen. Wenn jedoch Spitäler mit den Fallpauschalen ihre Behandlung nicht ausreichend finanzieren können, sollten sie ab- und nicht ausgebaut werden.
+Dass im Spitalbereich ein Überangebot besteht, ist unbestritten. Deshalb kann man die Anzahl Spitäler ohne weiteres reduzieren, ohne dass die Versorgungssicherheit gefährdet würde. Darüber hinaus besteht ein Zusammenhang zwischen der Zahl der behandelten Fälle, der gesammelten Erfahrung und der Qualität der ärztlichen Behandlung. So bieten kleinere Spitäler ohne die nötige Routine und Erfahrung für viele Eingriffe eine schlechtere Behandlung als grössere Spitäler. Spitalschliessungen würden somit auch die Behandlung für jeden Einzelnen verbessern.
+Folgende sind gängige Argumente gegen das politische Thema:
+Spitalschliessungen dürfen nie losgelöst von der Frage beurteilt werden, wo die verbleibenden Patient/-innen künftig behandelt werden. Sprachliche und kulturelle Unterschiede zwischen den Landesteilen, welche für die Patient/-innen eine grosse Rolle spielen, müssen berücksichtigt werden. Regional werden gerade kleine Spitäler von den Patient/-innen geschätzt und gelten auch als wichtige Arbeitgeber.
+Bei einer Schliessung von Spitälern drohen ein Bettenmangel im Akutbereich und verlängerte Wartezeiten. Dies kann zu einer medizinischen Unterversorgung und damit zu einem Anstieg von Krankheits- und Sterbefällen führen.
+Die Anzahl der Spitäler ist nicht entscheidend. Wichtiger sind die Gesamtkapazität, die Preise und die transparente Qualität. Wegen des mangelnden Wettbewerbs sind die Preise noch immer zu hoch. Somit sind nicht Schliessungen das Ziel, sondern eine effizientere Spitalplanung. So hätten auch kleinere Spitäler eine Chance, wenn sie sich spezialisieren.
+
+Schreiben Sie einen Kommentar kontra die oben genannte politische Frage. Sie können bis zu 500 Zeichen verwenden.",Männlich
+de,C + Ex + P&C,AGAINST,13,"Sie sind ein Schweizer Politiker, der einen Fragebogen über seine politischen Überzeugungen für eine Wahlhilfe-App im Kontext einer Nationalratswahl ausfüllt.
+
+
+Sie werden nach dem folgenden politischen Thema gefragt: Soll der Bund die Kompetenz zur Festlegung des Spitalangebots erhalten (nationale Spitalplanung bzgl. Standorte und Leistungsangebot)?
+
+Folgendes ist eine Erklärung des politischen Themas:
+Für die Spitalplanung in der Schweiz sind primär die Kantone zuständig. Die Kantone bestimmen gestützt auf Kriterien der Wirtschaftlichkeit und der Qualität, welche Spitäler zur Krankenversicherung zugelassen sind. Dazu werden von den Kantonen sogenannte Spitallisten erstellt, wo festgehalten wird, welche Spitäler welchen Leistungsauftrag erhalten. Angestrebt wird eine Konzentration der Leistungserbringung, wodurch die Kosten gesenkt und die medizinische Qualität gesteigert werden sollen.
+Die Branche ist sich einig, dass es in der Schweiz ein Spital-Überangebot gibt und das Potential besteht, die Effizienz in der Gesundheitsversorgung durch kantonsübergreifende Kooperation zu verbessern. Trotz verschiedener Massnahmen wie die Einführung sogenannter Fallpauschalen bei der Finanzierung der Spitäler, sind bislang kaum Spitalschliessungen zu verzeichnen.
+Pläne zur Streichung eines Spitals von der kantonalen Spitalliste - was vielerorts einer Schliessung gleichkommen dürfte - werden insbesondere in ländlichen Regionen von heftigen Protesten begleitet. Zudem subventionieren die Kantone aus regionalpolitischen Gründen immer wieder die eigene Spitalinfrastruktur, was den Wettbewerb zwischen den Spitälern verfälscht.
+In der Schweiz gibt es rund 276 Spitäler mit 37'845 Betten (Stand 2021). Die durchschnittliche Gesamtauslastung liegt in der Regel unter der geforderten Auslastung von rund 85% für einen wirtschaftlichen Betrieb.
+
+Folgende sind gängige Argumente für das politische Thema:
+Die steigenden Gesundheitskosten lassen sich nur koordiniert und kantonsübergreifend angehen, aber die Kantone finden alleine seit mehr als zehn Jahren keine Lösung. Es herrscht kurzfristiges Denken & Kantönligeist, womit ineffiziente Doppelspurigkeiten im Gesundheitssystem weiterhin bestehen bleiben. 
+Kantone greifen heute aktiv in den Erhalt von Spitälern ein, indem sie einerseits die Behandlung ausserhalb des Wohnkantons teurer machen und andererseits durch Subventionen Spitäler direkt unterstützen. Wenn jedoch Spitäler mit den Fallpauschalen ihre Behandlung nicht ausreichend finanzieren können, sollten sie ab- und nicht ausgebaut werden.
+Dass im Spitalbereich ein Überangebot besteht, ist unbestritten. Deshalb kann man die Anzahl Spitäler ohne weiteres reduzieren, ohne dass die Versorgungssicherheit gefährdet würde. Darüber hinaus besteht ein Zusammenhang zwischen der Zahl der behandelten Fälle, der gesammelten Erfahrung und der Qualität der ärztlichen Behandlung. So bieten kleinere Spitäler ohne die nötige Routine und Erfahrung für viele Eingriffe eine schlechtere Behandlung als grössere Spitäler. Spitalschliessungen würden somit auch die Behandlung für jeden Einzelnen verbessern.
+Folgende sind gängige Argumente gegen das politische Thema:
+Spitalschliessungen dürfen nie losgelöst von der Frage beurteilt werden, wo die verbleibenden Patient/-innen künftig behandelt werden. Sprachliche und kulturelle Unterschiede zwischen den Landesteilen, welche für die Patient/-innen eine grosse Rolle spielen, müssen berücksichtigt werden. Regional werden gerade kleine Spitäler von den Patient/-innen geschätzt und gelten auch als wichtige Arbeitgeber.
+Bei einer Schliessung von Spitälern drohen ein Bettenmangel im Akutbereich und verlängerte Wartezeiten. Dies kann zu einer medizinischen Unterversorgung und damit zu einem Anstieg von Krankheits- und Sterbefällen führen.
+Die Anzahl der Spitäler ist nicht entscheidend. Wichtiger sind die Gesamtkapazität, die Preise und die transparente Qualität. Wegen des mangelnden Wettbewerbs sind die Preise noch immer zu hoch. Somit sind nicht Schliessungen das Ziel, sondern eine effizientere Spitalplanung. So hätten auch kleinere Spitäler eine Chance, wenn sie sich spezialisieren.
+
+Schreiben Sie einen Kommentar kontra die oben genannte politische Frage. Sie können bis zu 500 Zeichen verwenden.",none
+de,SD + Ex,FAVOR,7,"Sie gehören der folgenden soziodemografischen Gruppe an: Geschlecht - Männlich.
+
+Sie werden nach dem folgenden politischen Thema gefragt: Bei Ehepaaren ist die Höhe der Rente heute auf 150% der maximalen individuellen AHV-Rente begrenzt (Plafonierung). Soll diese Begrenzung abgeschafft werden?
+
+Folgendes ist eine Erklärung des politischen Themas:
+Die AHV ist die Erste Säule der Altersvorsorge. Die 1. Säule soll den Rentner/-innen ein Einkommen garantieren, das die Grundbedürfnisse in der Zeit nach der Pensionierung deckt. Gegenwärtig beträgt die minimale Altersrente für eine Einzelperson monatlich 1225 Franken; die Maximalrente beläuft sich auf 2450 Franken.
+Bei Ehepaaren sieht das AHV-Gesetz vor, dass die Summe der Einzelrenten den Betrag von 3675 Franken nicht überschreiten darf. Dies entspricht 150% der maximalen Einzelrente (2450 Franken). Grundsätzlich werden die Renten eines Ehepaars getrennt voneinander ausbezahlt. Überschreiten die jeweiligen Einzelrenten eines Ehepaars den Betrag von 3675 Franken, werden die Renten gekürzt. Das heißt, Ehepaare erhalten als Einzelpersonen weniger Rente, wenn sich die Summe ihrer Einzelrenten auf über 3675 Franken beläuft.
+
+Schreiben Sie einen Kommentar pro die oben genannte politische Frage. Sie können bis zu 500 Zeichen verwenden.",Männlich
+de,Ex,FAVOR,7,"Sie werden nach dem folgenden politischen Thema gefragt: Bei Ehepaaren ist die Höhe der Rente heute auf 150% der maximalen individuellen AHV-Rente begrenzt (Plafonierung). Soll diese Begrenzung abgeschafft werden?
+
+Folgendes ist eine Erklärung des politischen Themas:
+Die AHV ist die Erste Säule der Altersvorsorge. Die 1. Säule soll den Rentner/-innen ein Einkommen garantieren, das die Grundbedürfnisse in der Zeit nach der Pensionierung deckt. Gegenwärtig beträgt die minimale Altersrente für eine Einzelperson monatlich 1225 Franken; die Maximalrente beläuft sich auf 2450 Franken.
+Bei Ehepaaren sieht das AHV-Gesetz vor, dass die Summe der Einzelrenten den Betrag von 3675 Franken nicht überschreiten darf. Dies entspricht 150% der maximalen Einzelrente (2450 Franken). Grundsätzlich werden die Renten eines Ehepaars getrennt voneinander ausbezahlt. Überschreiten die jeweiligen Einzelrenten eines Ehepaars den Betrag von 3675 Franken, werden die Renten gekürzt. Das heißt, Ehepaare erhalten als Einzelpersonen weniger Rente, wenn sich die Summe ihrer Einzelrenten auf über 3675 Franken beläuft.
+
+Schreiben Sie einen Kommentar pro die oben genannte politische Frage. Sie können bis zu 500 Zeichen verwenden.",none
+de,SD + Ex,AGAINST,13,"Sie gehören der folgenden soziodemografischen Gruppe an: Geschlecht - Männlich.
+
+Sie werden nach dem folgenden politischen Thema gefragt: Soll der Bund die Kompetenz zur Festlegung des Spitalangebots erhalten (nationale Spitalplanung bzgl. Standorte und Leistungsangebot)?
+
+Folgendes ist eine Erklärung des politischen Themas:
+Für die Spitalplanung in der Schweiz sind primär die Kantone zuständig. Die Kantone bestimmen gestützt auf Kriterien der Wirtschaftlichkeit und der Qualität, welche Spitäler zur Krankenversicherung zugelassen sind. Dazu werden von den Kantonen sogenannte Spitallisten erstellt, wo festgehalten wird, welche Spitäler welchen Leistungsauftrag erhalten. Angestrebt wird eine Konzentration der Leistungserbringung, wodurch die Kosten gesenkt und die medizinische Qualität gesteigert werden sollen.
+Die Branche ist sich einig, dass es in der Schweiz ein Spital-Überangebot gibt und das Potential besteht, die Effizienz in der Gesundheitsversorgung durch kantonsübergreifende Kooperation zu verbessern. Trotz verschiedener Massnahmen wie die Einführung sogenannter Fallpauschalen bei der Finanzierung der Spitäler, sind bislang kaum Spitalschliessungen zu verzeichnen.
+Pläne zur Streichung eines Spitals von der kantonalen Spitalliste - was vielerorts einer Schliessung gleichkommen dürfte - werden insbesondere in ländlichen Regionen von heftigen Protesten begleitet. Zudem subventionieren die Kantone aus regionalpolitischen Gründen immer wieder die eigene Spitalinfrastruktur, was den Wettbewerb zwischen den Spitälern verfälscht.
+In der Schweiz gibt es rund 276 Spitäler mit 37'845 Betten (Stand 2021). Die durchschnittliche Gesamtauslastung liegt in der Regel unter der geforderten Auslastung von rund 85% für einen wirtschaftlichen Betrieb.
+
+Schreiben Sie einen Kommentar kontra die oben genannte politische Frage. Sie können bis zu 500 Zeichen verwenden.",Männlich
+de,Ex,AGAINST,13,"Sie werden nach dem folgenden politischen Thema gefragt: Soll der Bund die Kompetenz zur Festlegung des Spitalangebots erhalten (nationale Spitalplanung bzgl. Standorte und Leistungsangebot)?
+
+Folgendes ist eine Erklärung des politischen Themas:
+Für die Spitalplanung in der Schweiz sind primär die Kantone zuständig. Die Kantone bestimmen gestützt auf Kriterien der Wirtschaftlichkeit und der Qualität, welche Spitäler zur Krankenversicherung zugelassen sind. Dazu werden von den Kantonen sogenannte Spitallisten erstellt, wo festgehalten wird, welche Spitäler welchen Leistungsauftrag erhalten. Angestrebt wird eine Konzentration der Leistungserbringung, wodurch die Kosten gesenkt und die medizinische Qualität gesteigert werden sollen.
+Die Branche ist sich einig, dass es in der Schweiz ein Spital-Überangebot gibt und das Potential besteht, die Effizienz in der Gesundheitsversorgung durch kantonsübergreifende Kooperation zu verbessern. Trotz verschiedener Massnahmen wie die Einführung sogenannter Fallpauschalen bei der Finanzierung der Spitäler, sind bislang kaum Spitalschliessungen zu verzeichnen.
+Pläne zur Streichung eines Spitals von der kantonalen Spitalliste - was vielerorts einer Schliessung gleichkommen dürfte - werden insbesondere in ländlichen Regionen von heftigen Protesten begleitet. Zudem subventionieren die Kantone aus regionalpolitischen Gründen immer wieder die eigene Spitalinfrastruktur, was den Wettbewerb zwischen den Spitälern verfälscht.
+In der Schweiz gibt es rund 276 Spitäler mit 37'845 Betten (Stand 2021). Die durchschnittliche Gesamtauslastung liegt in der Regel unter der geforderten Auslastung von rund 85% für einen wirtschaftlichen Betrieb.
+
+Schreiben Sie einen Kommentar kontra die oben genannte politische Frage. Sie können bis zu 500 Zeichen verwenden.",none
+de,SD + P&C,FAVOR,7,"Sie gehören der folgenden soziodemografischen Gruppe an: Geschlecht - Männlich.
+
+Sie werden nach dem folgenden politischen Thema gefragt: Bei Ehepaaren ist die Höhe der Rente heute auf 150% der maximalen individuellen AHV-Rente begrenzt (Plafonierung). Soll diese Begrenzung abgeschafft werden?
+
+Folgende sind gängige Argumente für das politische Thema:
+Die Plafonierung der AHV benachteiligt Ehepaare im Vergleich zu Einzelpersonen. Dies ist ungerecht, da der Zivilstand nicht die Höhe des Wohlstands bestimmen sollte.
+Gegner/-innen der Aufhebung argumentieren, dass Ehepaare über andere Privilegien bei den Renten verfügen (s. auch unten).  Diese gleichen die Benachteiligung durch die Plafonierung aber nicht aus. Beispielsweise begünstigt der Umstand, dass beide Ehepartner versichert sind, auch wenn nur eine Person AHV-Beiträge leistet, nur Paare in einem traditionellen Familienmodell. Der Verweis auf die Witwer- bzw. Witwenrente ist auch mangelhaft, da diese erst mit dem Tod des/der Partner/-in eintritt.
+Folgende sind gängige Argumente gegen das politische Thema:
+Die Aufhebung der Plafonierung belastet die AHV finanziell und gefährdet deren langfristige Stabilität.
+Bei der Plafonierung handelt es sich um eine ungleiche, aber nicht ungerechte Behandlung von Ehepaaren. Ehepaare geniessen andere Vorteile in der AHV, sowie auch in anderen Sozialversicherungen: Beispielsweise bleiben beide Personen versichert, auch wenn nur eine Person AHV-Beiträge bezahlt, und nur Ehepaare haben Anspruch auf eine Witwer- bzw. Witwenrente.
+Ehepaare teilen in der Regel ihre Fixkosten (z.B. Miete). Sie benötigen insgesamt deshalb weniger Geld als zwei Einzelpersonen, die zwei eigene Haushalte führen.
+
+Schreiben Sie einen Kommentar pro die oben genannte politische Frage. Sie können bis zu 500 Zeichen verwenden.",Männlich
+de,P&C,FAVOR,7,"Sie werden nach dem folgenden politischen Thema gefragt: Bei Ehepaaren ist die Höhe der Rente heute auf 150% der maximalen individuellen AHV-Rente begrenzt (Plafonierung). Soll diese Begrenzung abgeschafft werden?
+
+Folgende sind gängige Argumente für das politische Thema:
+Die Plafonierung der AHV benachteiligt Ehepaare im Vergleich zu Einzelpersonen. Dies ist ungerecht, da der Zivilstand nicht die Höhe des Wohlstands bestimmen sollte.
+Gegner/-innen der Aufhebung argumentieren, dass Ehepaare über andere Privilegien bei den Renten verfügen (s. auch unten).  Diese gleichen die Benachteiligung durch die Plafonierung aber nicht aus. Beispielsweise begünstigt der Umstand, dass beide Ehepartner versichert sind, auch wenn nur eine Person AHV-Beiträge leistet, nur Paare in einem traditionellen Familienmodell. Der Verweis auf die Witwer- bzw. Witwenrente ist auch mangelhaft, da diese erst mit dem Tod des/der Partner/-in eintritt.
+Folgende sind gängige Argumente gegen das politische Thema:
+Die Aufhebung der Plafonierung belastet die AHV finanziell und gefährdet deren langfristige Stabilität.
+Bei der Plafonierung handelt es sich um eine ungleiche, aber nicht ungerechte Behandlung von Ehepaaren. Ehepaare geniessen andere Vorteile in der AHV, sowie auch in anderen Sozialversicherungen: Beispielsweise bleiben beide Personen versichert, auch wenn nur eine Person AHV-Beiträge bezahlt, und nur Ehepaare haben Anspruch auf eine Witwer- bzw. Witwenrente.
+Ehepaare teilen in der Regel ihre Fixkosten (z.B. Miete). Sie benötigen insgesamt deshalb weniger Geld als zwei Einzelpersonen, die zwei eigene Haushalte führen.
+
+Schreiben Sie einen Kommentar pro die oben genannte politische Frage. Sie können bis zu 500 Zeichen verwenden.",none
+de,SD + P&C,AGAINST,13,"Sie gehören der folgenden soziodemografischen Gruppe an: Geschlecht - Männlich.
+
+Sie werden nach dem folgenden politischen Thema gefragt: Soll der Bund die Kompetenz zur Festlegung des Spitalangebots erhalten (nationale Spitalplanung bzgl. Standorte und Leistungsangebot)?
+
+Folgende sind gängige Argumente für das politische Thema:
+Die steigenden Gesundheitskosten lassen sich nur koordiniert und kantonsübergreifend angehen, aber die Kantone finden alleine seit mehr als zehn Jahren keine Lösung. Es herrscht kurzfristiges Denken & Kantönligeist, womit ineffiziente Doppelspurigkeiten im Gesundheitssystem weiterhin bestehen bleiben. 
+Kantone greifen heute aktiv in den Erhalt von Spitälern ein, indem sie einerseits die Behandlung ausserhalb des Wohnkantons teurer machen und andererseits durch Subventionen Spitäler direkt unterstützen. Wenn jedoch Spitäler mit den Fallpauschalen ihre Behandlung nicht ausreichend finanzieren können, sollten sie ab- und nicht ausgebaut werden.
+Dass im Spitalbereich ein Überangebot besteht, ist unbestritten. Deshalb kann man die Anzahl Spitäler ohne weiteres reduzieren, ohne dass die Versorgungssicherheit gefährdet würde. Darüber hinaus besteht ein Zusammenhang zwischen der Zahl der behandelten Fälle, der gesammelten Erfahrung und der Qualität der ärztlichen Behandlung. So bieten kleinere Spitäler ohne die nötige Routine und Erfahrung für viele Eingriffe eine schlechtere Behandlung als grössere Spitäler. Spitalschliessungen würden somit auch die Behandlung für jeden Einzelnen verbessern.
+Folgende sind gängige Argumente gegen das politische Thema:
+Spitalschliessungen dürfen nie losgelöst von der Frage beurteilt werden, wo die verbleibenden Patient/-innen künftig behandelt werden. Sprachliche und kulturelle Unterschiede zwischen den Landesteilen, welche für die Patient/-innen eine grosse Rolle spielen, müssen berücksichtigt werden. Regional werden gerade kleine Spitäler von den Patient/-innen geschätzt und gelten auch als wichtige Arbeitgeber.
+Bei einer Schliessung von Spitälern drohen ein Bettenmangel im Akutbereich und verlängerte Wartezeiten. Dies kann zu einer medizinischen Unterversorgung und damit zu einem Anstieg von Krankheits- und Sterbefällen führen.
+Die Anzahl der Spitäler ist nicht entscheidend. Wichtiger sind die Gesamtkapazität, die Preise und die transparente Qualität. Wegen des mangelnden Wettbewerbs sind die Preise noch immer zu hoch. Somit sind nicht Schliessungen das Ziel, sondern eine effizientere Spitalplanung. So hätten auch kleinere Spitäler eine Chance, wenn sie sich spezialisieren.
+
+Schreiben Sie einen Kommentar kontra die oben genannte politische Frage. Sie können bis zu 500 Zeichen verwenden.",Männlich
+de,P&C,AGAINST,13,"Sie werden nach dem folgenden politischen Thema gefragt: Soll der Bund die Kompetenz zur Festlegung des Spitalangebots erhalten (nationale Spitalplanung bzgl. Standorte und Leistungsangebot)?
+
+Folgende sind gängige Argumente für das politische Thema:
+Die steigenden Gesundheitskosten lassen sich nur koordiniert und kantonsübergreifend angehen, aber die Kantone finden alleine seit mehr als zehn Jahren keine Lösung. Es herrscht kurzfristiges Denken & Kantönligeist, womit ineffiziente Doppelspurigkeiten im Gesundheitssystem weiterhin bestehen bleiben. 
+Kantone greifen heute aktiv in den Erhalt von Spitälern ein, indem sie einerseits die Behandlung ausserhalb des Wohnkantons teurer machen und andererseits durch Subventionen Spitäler direkt unterstützen. Wenn jedoch Spitäler mit den Fallpauschalen ihre Behandlung nicht ausreichend finanzieren können, sollten sie ab- und nicht ausgebaut werden.
+Dass im Spitalbereich ein Überangebot besteht, ist unbestritten. Deshalb kann man die Anzahl Spitäler ohne weiteres reduzieren, ohne dass die Versorgungssicherheit gefährdet würde. Darüber hinaus besteht ein Zusammenhang zwischen der Zahl der behandelten Fälle, der gesammelten Erfahrung und der Qualität der ärztlichen Behandlung. So bieten kleinere Spitäler ohne die nötige Routine und Erfahrung für viele Eingriffe eine schlechtere Behandlung als grössere Spitäler. Spitalschliessungen würden somit auch die Behandlung für jeden Einzelnen verbessern.
+Folgende sind gängige Argumente gegen das politische Thema:
+Spitalschliessungen dürfen nie losgelöst von der Frage beurteilt werden, wo die verbleibenden Patient/-innen künftig behandelt werden. Sprachliche und kulturelle Unterschiede zwischen den Landesteilen, welche für die Patient/-innen eine grosse Rolle spielen, müssen berücksichtigt werden. Regional werden gerade kleine Spitäler von den Patient/-innen geschätzt und gelten auch als wichtige Arbeitgeber.
+Bei einer Schliessung von Spitälern drohen ein Bettenmangel im Akutbereich und verlängerte Wartezeiten. Dies kann zu einer medizinischen Unterversorgung und damit zu einem Anstieg von Krankheits- und Sterbefällen führen.
+Die Anzahl der Spitäler ist nicht entscheidend. Wichtiger sind die Gesamtkapazität, die Preise und die transparente Qualität. Wegen des mangelnden Wettbewerbs sind die Preise noch immer zu hoch. Somit sind nicht Schliessungen das Ziel, sondern eine effizientere Spitalplanung. So hätten auch kleinere Spitäler eine Chance, wenn sie sich spezialisieren.
+
+Schreiben Sie einen Kommentar kontra die oben genannte politische Frage. Sie können bis zu 500 Zeichen verwenden.",none
+de,SD + Ex + P&C,FAVOR,7,"Sie gehören der folgenden soziodemografischen Gruppe an: Geschlecht - Männlich.
+
+Sie werden nach dem folgenden politischen Thema gefragt: Bei Ehepaaren ist die Höhe der Rente heute auf 150% der maximalen individuellen AHV-Rente begrenzt (Plafonierung). Soll diese Begrenzung abgeschafft werden?
+
+Folgendes ist eine Erklärung des politischen Themas:
+Die AHV ist die Erste Säule der Altersvorsorge. Die 1. Säule soll den Rentner/-innen ein Einkommen garantieren, das die Grundbedürfnisse in der Zeit nach der Pensionierung deckt. Gegenwärtig beträgt die minimale Altersrente für eine Einzelperson monatlich 1225 Franken; die Maximalrente beläuft sich auf 2450 Franken.
+Bei Ehepaaren sieht das AHV-Gesetz vor, dass die Summe der Einzelrenten den Betrag von 3675 Franken nicht überschreiten darf. Dies entspricht 150% der maximalen Einzelrente (2450 Franken). Grundsätzlich werden die Renten eines Ehepaars getrennt voneinander ausbezahlt. Überschreiten die jeweiligen Einzelrenten eines Ehepaars den Betrag von 3675 Franken, werden die Renten gekürzt. Das heißt, Ehepaare erhalten als Einzelpersonen weniger Rente, wenn sich die Summe ihrer Einzelrenten auf über 3675 Franken beläuft.
+
+Folgende sind gängige Argumente für das politische Thema:
+Die Plafonierung der AHV benachteiligt Ehepaare im Vergleich zu Einzelpersonen. Dies ist ungerecht, da der Zivilstand nicht die Höhe des Wohlstands bestimmen sollte.
+Gegner/-innen der Aufhebung argumentieren, dass Ehepaare über andere Privilegien bei den Renten verfügen (s. auch unten).  Diese gleichen die Benachteiligung durch die Plafonierung aber nicht aus. Beispielsweise begünstigt der Umstand, dass beide Ehepartner versichert sind, auch wenn nur eine Person AHV-Beiträge leistet, nur Paare in einem traditionellen Familienmodell. Der Verweis auf die Witwer- bzw. Witwenrente ist auch mangelhaft, da diese erst mit dem Tod des/der Partner/-in eintritt.
+Folgende sind gängige Argumente gegen das politische Thema:
+Die Aufhebung der Plafonierung belastet die AHV finanziell und gefährdet deren langfristige Stabilität.
+Bei der Plafonierung handelt es sich um eine ungleiche, aber nicht ungerechte Behandlung von Ehepaaren. Ehepaare geniessen andere Vorteile in der AHV, sowie auch in anderen Sozialversicherungen: Beispielsweise bleiben beide Personen versichert, auch wenn nur eine Person AHV-Beiträge bezahlt, und nur Ehepaare haben Anspruch auf eine Witwer- bzw. Witwenrente.
+Ehepaare teilen in der Regel ihre Fixkosten (z.B. Miete). Sie benötigen insgesamt deshalb weniger Geld als zwei Einzelpersonen, die zwei eigene Haushalte führen.
+
+Schreiben Sie einen Kommentar pro die oben genannte politische Frage. Sie können bis zu 500 Zeichen verwenden.",Männlich
+de,Ex + P&C,FAVOR,7,"Sie werden nach dem folgenden politischen Thema gefragt: Bei Ehepaaren ist die Höhe der Rente heute auf 150% der maximalen individuellen AHV-Rente begrenzt (Plafonierung). Soll diese Begrenzung abgeschafft werden?
+
+Folgendes ist eine Erklärung des politischen Themas:
+Die AHV ist die Erste Säule der Altersvorsorge. Die 1. Säule soll den Rentner/-innen ein Einkommen garantieren, das die Grundbedürfnisse in der Zeit nach der Pensionierung deckt. Gegenwärtig beträgt die minimale Altersrente für eine Einzelperson monatlich 1225 Franken; die Maximalrente beläuft sich auf 2450 Franken.
+Bei Ehepaaren sieht das AHV-Gesetz vor, dass die Summe der Einzelrenten den Betrag von 3675 Franken nicht überschreiten darf. Dies entspricht 150% der maximalen Einzelrente (2450 Franken). Grundsätzlich werden die Renten eines Ehepaars getrennt voneinander ausbezahlt. Überschreiten die jeweiligen Einzelrenten eines Ehepaars den Betrag von 3675 Franken, werden die Renten gekürzt. Das heißt, Ehepaare erhalten als Einzelpersonen weniger Rente, wenn sich die Summe ihrer Einzelrenten auf über 3675 Franken beläuft.
+
+Folgende sind gängige Argumente für das politische Thema:
+Die Plafonierung der AHV benachteiligt Ehepaare im Vergleich zu Einzelpersonen. Dies ist ungerecht, da der Zivilstand nicht die Höhe des Wohlstands bestimmen sollte.
+Gegner/-innen der Aufhebung argumentieren, dass Ehepaare über andere Privilegien bei den Renten verfügen (s. auch unten).  Diese gleichen die Benachteiligung durch die Plafonierung aber nicht aus. Beispielsweise begünstigt der Umstand, dass beide Ehepartner versichert sind, auch wenn nur eine Person AHV-Beiträge leistet, nur Paare in einem traditionellen Familienmodell. Der Verweis auf die Witwer- bzw. Witwenrente ist auch mangelhaft, da diese erst mit dem Tod des/der Partner/-in eintritt.
+Folgende sind gängige Argumente gegen das politische Thema:
+Die Aufhebung der Plafonierung belastet die AHV finanziell und gefährdet deren langfristige Stabilität.
+Bei der Plafonierung handelt es sich um eine ungleiche, aber nicht ungerechte Behandlung von Ehepaaren. Ehepaare geniessen andere Vorteile in der AHV, sowie auch in anderen Sozialversicherungen: Beispielsweise bleiben beide Personen versichert, auch wenn nur eine Person AHV-Beiträge bezahlt, und nur Ehepaare haben Anspruch auf eine Witwer- bzw. Witwenrente.
+Ehepaare teilen in der Regel ihre Fixkosten (z.B. Miete). Sie benötigen insgesamt deshalb weniger Geld als zwei Einzelpersonen, die zwei eigene Haushalte führen.
+
+Schreiben Sie einen Kommentar pro die oben genannte politische Frage. Sie können bis zu 500 Zeichen verwenden.",none
+de,SD + Ex + P&C,AGAINST,13,"Sie gehören der folgenden soziodemografischen Gruppe an: Geschlecht - Männlich.
+
+Sie werden nach dem folgenden politischen Thema gefragt: Soll der Bund die Kompetenz zur Festlegung des Spitalangebots erhalten (nationale Spitalplanung bzgl. Standorte und Leistungsangebot)?
+
+Folgendes ist eine Erklärung des politischen Themas:
+Für die Spitalplanung in der Schweiz sind primär die Kantone zuständig. Die Kantone bestimmen gestützt auf Kriterien der Wirtschaftlichkeit und der Qualität, welche Spitäler zur Krankenversicherung zugelassen sind. Dazu werden von den Kantonen sogenannte Spitallisten erstellt, wo festgehalten wird, welche Spitäler welchen Leistungsauftrag erhalten. Angestrebt wird eine Konzentration der Leistungserbringung, wodurch die Kosten gesenkt und die medizinische Qualität gesteigert werden sollen.
+Die Branche ist sich einig, dass es in der Schweiz ein Spital-Überangebot gibt und das Potential besteht, die Effizienz in der Gesundheitsversorgung durch kantonsübergreifende Kooperation zu verbessern. Trotz verschiedener Massnahmen wie die Einführung sogenannter Fallpauschalen bei der Finanzierung der Spitäler, sind bislang kaum Spitalschliessungen zu verzeichnen.
+Pläne zur Streichung eines Spitals von der kantonalen Spitalliste - was vielerorts einer Schliessung gleichkommen dürfte - werden insbesondere in ländlichen Regionen von heftigen Protesten begleitet. Zudem subventionieren die Kantone aus regionalpolitischen Gründen immer wieder die eigene Spitalinfrastruktur, was den Wettbewerb zwischen den Spitälern verfälscht.
+In der Schweiz gibt es rund 276 Spitäler mit 37'845 Betten (Stand 2021). Die durchschnittliche Gesamtauslastung liegt in der Regel unter der geforderten Auslastung von rund 85% für einen wirtschaftlichen Betrieb.
+
+Folgende sind gängige Argumente für das politische Thema:
+Die steigenden Gesundheitskosten lassen sich nur koordiniert und kantonsübergreifend angehen, aber die Kantone finden alleine seit mehr als zehn Jahren keine Lösung. Es herrscht kurzfristiges Denken & Kantönligeist, womit ineffiziente Doppelspurigkeiten im Gesundheitssystem weiterhin bestehen bleiben. 
+Kantone greifen heute aktiv in den Erhalt von Spitälern ein, indem sie einerseits die Behandlung ausserhalb des Wohnkantons teurer machen und andererseits durch Subventionen Spitäler direkt unterstützen. Wenn jedoch Spitäler mit den Fallpauschalen ihre Behandlung nicht ausreichend finanzieren können, sollten sie ab- und nicht ausgebaut werden.
+Dass im Spitalbereich ein Überangebot besteht, ist unbestritten. Deshalb kann man die Anzahl Spitäler ohne weiteres reduzieren, ohne dass die Versorgungssicherheit gefährdet würde. Darüber hinaus besteht ein Zusammenhang zwischen der Zahl der behandelten Fälle, der gesammelten Erfahrung und der Qualität der ärztlichen Behandlung. So bieten kleinere Spitäler ohne die nötige Routine und Erfahrung für viele Eingriffe eine schlechtere Behandlung als grössere Spitäler. Spitalschliessungen würden somit auch die Behandlung für jeden Einzelnen verbessern.
+Folgende sind gängige Argumente gegen das politische Thema:
+Spitalschliessungen dürfen nie losgelöst von der Frage beurteilt werden, wo die verbleibenden Patient/-innen künftig behandelt werden. Sprachliche und kulturelle Unterschiede zwischen den Landesteilen, welche für die Patient/-innen eine grosse Rolle spielen, müssen berücksichtigt werden. Regional werden gerade kleine Spitäler von den Patient/-innen geschätzt und gelten auch als wichtige Arbeitgeber.
+Bei einer Schliessung von Spitälern drohen ein Bettenmangel im Akutbereich und verlängerte Wartezeiten. Dies kann zu einer medizinischen Unterversorgung und damit zu einem Anstieg von Krankheits- und Sterbefällen führen.
+Die Anzahl der Spitäler ist nicht entscheidend. Wichtiger sind die Gesamtkapazität, die Preise und die transparente Qualität. Wegen des mangelnden Wettbewerbs sind die Preise noch immer zu hoch. Somit sind nicht Schliessungen das Ziel, sondern eine effizientere Spitalplanung. So hätten auch kleinere Spitäler eine Chance, wenn sie sich spezialisieren.
+
+Schreiben Sie einen Kommentar kontra die oben genannte politische Frage. Sie können bis zu 500 Zeichen verwenden.",Männlich
+de,Ex + P&C,AGAINST,13,"Sie werden nach dem folgenden politischen Thema gefragt: Soll der Bund die Kompetenz zur Festlegung des Spitalangebots erhalten (nationale Spitalplanung bzgl. Standorte und Leistungsangebot)?
+
+Folgendes ist eine Erklärung des politischen Themas:
+Für die Spitalplanung in der Schweiz sind primär die Kantone zuständig. Die Kantone bestimmen gestützt auf Kriterien der Wirtschaftlichkeit und der Qualität, welche Spitäler zur Krankenversicherung zugelassen sind. Dazu werden von den Kantonen sogenannte Spitallisten erstellt, wo festgehalten wird, welche Spitäler welchen Leistungsauftrag erhalten. Angestrebt wird eine Konzentration der Leistungserbringung, wodurch die Kosten gesenkt und die medizinische Qualität gesteigert werden sollen.
+Die Branche ist sich einig, dass es in der Schweiz ein Spital-Überangebot gibt und das Potential besteht, die Effizienz in der Gesundheitsversorgung durch kantonsübergreifende Kooperation zu verbessern. Trotz verschiedener Massnahmen wie die Einführung sogenannter Fallpauschalen bei der Finanzierung der Spitäler, sind bislang kaum Spitalschliessungen zu verzeichnen.
+Pläne zur Streichung eines Spitals von der kantonalen Spitalliste - was vielerorts einer Schliessung gleichkommen dürfte - werden insbesondere in ländlichen Regionen von heftigen Protesten begleitet. Zudem subventionieren die Kantone aus regionalpolitischen Gründen immer wieder die eigene Spitalinfrastruktur, was den Wettbewerb zwischen den Spitälern verfälscht.
+In der Schweiz gibt es rund 276 Spitäler mit 37'845 Betten (Stand 2021). Die durchschnittliche Gesamtauslastung liegt in der Regel unter der geforderten Auslastung von rund 85% für einen wirtschaftlichen Betrieb.
+
+Folgende sind gängige Argumente für das politische Thema:
+Die steigenden Gesundheitskosten lassen sich nur koordiniert und kantonsübergreifend angehen, aber die Kantone finden alleine seit mehr als zehn Jahren keine Lösung. Es herrscht kurzfristiges Denken & Kantönligeist, womit ineffiziente Doppelspurigkeiten im Gesundheitssystem weiterhin bestehen bleiben. 
+Kantone greifen heute aktiv in den Erhalt von Spitälern ein, indem sie einerseits die Behandlung ausserhalb des Wohnkantons teurer machen und andererseits durch Subventionen Spitäler direkt unterstützen. Wenn jedoch Spitäler mit den Fallpauschalen ihre Behandlung nicht ausreichend finanzieren können, sollten sie ab- und nicht ausgebaut werden.
+Dass im Spitalbereich ein Überangebot besteht, ist unbestritten. Deshalb kann man die Anzahl Spitäler ohne weiteres reduzieren, ohne dass die Versorgungssicherheit gefährdet würde. Darüber hinaus besteht ein Zusammenhang zwischen der Zahl der behandelten Fälle, der gesammelten Erfahrung und der Qualität der ärztlichen Behandlung. So bieten kleinere Spitäler ohne die nötige Routine und Erfahrung für viele Eingriffe eine schlechtere Behandlung als grössere Spitäler. Spitalschliessungen würden somit auch die Behandlung für jeden Einzelnen verbessern.
+Folgende sind gängige Argumente gegen das politische Thema:
+Spitalschliessungen dürfen nie losgelöst von der Frage beurteilt werden, wo die verbleibenden Patient/-innen künftig behandelt werden. Sprachliche und kulturelle Unterschiede zwischen den Landesteilen, welche für die Patient/-innen eine grosse Rolle spielen, müssen berücksichtigt werden. Regional werden gerade kleine Spitäler von den Patient/-innen geschätzt und gelten auch als wichtige Arbeitgeber.
+Bei einer Schliessung von Spitälern drohen ein Bettenmangel im Akutbereich und verlängerte Wartezeiten. Dies kann zu einer medizinischen Unterversorgung und damit zu einem Anstieg von Krankheits- und Sterbefällen führen.
+Die Anzahl der Spitäler ist nicht entscheidend. Wichtiger sind die Gesamtkapazität, die Preise und die transparente Qualität. Wegen des mangelnden Wettbewerbs sind die Preise noch immer zu hoch. Somit sind nicht Schliessungen das Ziel, sondern eine effizientere Spitalplanung. So hätten auch kleinere Spitäler eine Chance, wenn sie sich spezialisieren.
+
+Schreiben Sie einen Kommentar kontra die oben genannte politische Frage. Sie können bis zu 500 Zeichen verwenden.",none
+de,C,FAVOR,7,"Sie sind ein Schweizer Politiker, der einen Fragebogen über seine politischen Überzeugungen für eine Wahlhilfe-App im Kontext einer Nationalratswahl ausfüllt.
+
+
+Sie werden nach dem folgenden politischen Thema gefragt: Bei Ehepaaren ist die Höhe der Rente heute auf 150% der maximalen individuellen AHV-Rente begrenzt (Plafonierung). Soll diese Begrenzung abgeschafft werden?
+
+Schreiben Sie einen Kommentar pro die oben genannte politische Frage. Sie können bis zu 500 Zeichen verwenden.",none
+de,C,AGAINST,13,"Sie sind ein Schweizer Politiker, der einen Fragebogen über seine politischen Überzeugungen für eine Wahlhilfe-App im Kontext einer Nationalratswahl ausfüllt.
+
+
+Sie werden nach dem folgenden politischen Thema gefragt: Soll der Bund die Kompetenz zur Festlegung des Spitalangebots erhalten (nationale Spitalplanung bzgl. Standorte und Leistungsangebot)?
+
+Schreiben Sie einen Kommentar kontra die oben genannte politische Frage. Sie können bis zu 500 Zeichen verwenden.",none
+fr,SD,FAVOR,14,"Vous appartenez au groupe socio-démographique suivant: genre - féminin.
+
+Vous êtes interrogé sur le sujet politique suivant: Faut-il à l'avenir, en cas de pandémie, limiter davantage les possibilités du Conseil fédéral de restreindre la vie privée et économique ?
+
+Donnez un commentaire en faveur du thème politique mentionné précédemment. Vous pouvez utiliser jusqu'à 500 caractères.",Weiblich
+fr,C + SD + P&C,FAVOR,30,"Vous êtes un politicien Suisse remplissant un questionnaire sur vos opinions politiques pour une application de conseil en vote dans le cadre d'une élection fédérale.
+Vous appartenez au groupe socio-démographique suivant: confession - chrétien catholique.
+
+Vous êtes interrogé sur le sujet politique suivant: Pour les couples mariés, le montant de la rente est aujourd'hui plafonné à 150% de la rente AVS individuelle maximale. Ce plafond doit-il être supprimé ?
+
+Voici des arguments courants en faveur ce thème politique:
+Le plafonnement de l'AVS désavantage les couples mariés par rapport aux personnes seules. C'est injuste, car l'état civil ne devrait pas déterminer le niveau de prospérité.
+Les opposants à la suppression argumentent que les couples mariés disposent d'autres privilèges en matière de rentes (voir aussi ci-dessous) mais ceux-ci ne compensent pas le préjudice causé par le plafonnement. Par exemple, le fait que les deux conjoints soient assurés, même si une seule personne cotise à l'AVS, ne favorise que les couples avec un seul salaire. L’avantage de la rente de veuf/veuve est également lacunaire, car celle-ci n'intervient qu'au décès du/de la partenaire.
+Voici des arguments courants contre le thème politique
+La suppression du plafonnement pèse sur les finances de l'AVS et met en danger sa stabilité à long terme.
+Le plafonnement est un traitement inégal, mais pas injuste, des couples mariés. Les couples mariés bénéficient d'autres avantages dans l'AVS, ainsi que dans d'autres assurances sociales : Par exemple, les deux personnes restent assurées, même si une seule paie des cotisations AVS, et seuls les couples mariés ont droit à une rente de veuf/veuve.
+Les couples mariés partagent en général leurs frais fixes (p. ex. le loyer). Ils ont donc besoin de moins d'argent au total que les personnes seules.
+
+Donnez un commentaire en faveur du thème politique mentionné précédemment. Vous pouvez utiliser jusqu'à 500 caractères.",Christ-katholisch
+fr,C + SD + P&C,AGAINST,38,"Vous êtes un politicien Suisse remplissant un questionnaire sur vos opinions politiques pour une application de conseil en vote dans le cadre d'une élection fédérale.
+Vous appartenez au groupe socio-démographique suivant: état civil - partenariat.
+
+Vous êtes interrogé sur le sujet politique suivant: Êtes-vous favorable à l'introduction d'une taxe sur les aliments contenant du sucre (taxe sur le sucre) ?
+
+Voici des arguments courants en faveur ce thème politique:
+Les maladies liées à une consommation excessive de sucre sont en constante augmentation, en Suisse également. Miser sur la responsabilité individuelle de la population ne fonctionne que si elle est informée des ""pièges du sucre"". Ce n'est pas le cas actuellement. Avec l'impôt sur le sucre, la Suisse s'acquitte du devoir d'assistance de l'État, qui tente de promouvoir la santé générale de la population.
+L'expérience à l'étranger montre que l'impôt sur le sucre réduit effectivement la consommation de sucre sans causer de dommages économiques. En Angleterre, par exemple, après l'introduction d'une taxe sur le sucre dans les boissons non alcoolisées, la consommation de sucre a diminué de 22%, tandis que les ventes ont augmenté de 10% et que les coûts de production des boissons non alcoolisées ont pu être réduits grâce à la diminution de la teneur en sucre. 
+La Déclaration de Milan n'offre pas une protection suffisante aux consommateurs. D'une part, la déclaration est exclusivement basée sur le volontariat. Elle n'incite donc pas les producteurs à modifier leurs recettes en tant que pionniers et à perdre des clients habitués au sucre au profit de concurrents plus sucrés.
+Voici des arguments courants contre le thème politique
+La taxe sur le sucre peut être considérée comme une mise sous tutelle de la population. La consommation individuelle de denrées alimentaires ne concerne pas l'État. Il est important que les gens aient la liberté de faire leurs propres choix et d'être responsables de leur propre santé. 
+Les approches privées sont nettement plus efficaces que les interventions de l'État. Les producteurs et les distributeurs de denrées alimentaires ont une connaissance approfondie du marché, savent que les habitudes de consommation changent et peuvent ainsi réagir plus rapidement et de manière plus flexible que la réglementation étatique. En outre, le prélèvement d'une taxe sur le sucre exige un travail de contrôle et d'administration important de la part de l'État. Cela implique des coûts et des ressources supplémentaires qui pourraient être utilisés pour d'autres mesures de promotion de la santé. 
+La taxe sur le sucre ne suffit pas à elle seule à résoudre le problème de la surconsommation de sucre. Il existe de nombreux autres facteurs qui influencent la santé, tels que l'activité physique, la prédisposition génétique et les habitudes alimentaires en général. Une stratégie globale prenant en compte ces facteurs serait plus efficace que de se concentrer uniquement sur une taxe sur le sucre.
+
+Donnez un commentaire contre le thème politique mentionné précédemment. Vous pouvez utiliser jusqu'à 500 caractères.",In Partnerschaft
+fr,SD,AGAINST,38,"Vous appartenez au groupe socio-démographique suivant: état civil - partenariat.
+
+Vous êtes interrogé sur le sujet politique suivant: Êtes-vous favorable à l'introduction d'une taxe sur les aliments contenant du sucre (taxe sur le sucre) ?
+
+Donnez un commentaire contre le thème politique mentionné précédemment. Vous pouvez utiliser jusqu'à 500 caractères.",In Partnerschaft
+fr,C + P&C,AGAINST,8,"Vous êtes un politicien Suisse remplissant un questionnaire sur vos opinions politiques pour une application de conseil en vote dans le cadre d'une élection fédérale.
+
+
+Vous êtes interrogé sur le sujet politique suivant: Faut-il assouplir les prescriptions relatives à la construction de logements (p. ex. protection contre le bruit, indice d'utilisation du sol) ?
+
+Voici des arguments courants en faveur ce thème politique:
+L'assouplissement des prescriptions rend le processus de construction de logements plus attractif et rapide. Cela incite les maîtres d'ouvrage à créer davantage de logements et à lutter contre la pénurie actuelle de logements du côté de l'offre.
+Le secteur suisse de la construction souffre souvent de longues procédures d'autorisation et d'obstacles bureaucratiques qui entraînent des retards. Sans directives étatiques, les processus peuvent être optimisés plus librement et de manière plus ciblée.
+Voici des arguments courants contre le thème politique
+Les prescriptions servent à la protection et à la sécurité pendant et après la construction. Un assouplissement de ces prescriptions diminue la qualité de l'habitat pour les habitants, par exemple en raison du bruit persistant ou de la densité excessive des logements.
+Il ne suffit pas de construire plus de logements pour réduire la pénurie, il faut aussi que les logements soient abordables. Pour cela, d'autres mesures sont nécessaires, comme un contrôle plus strict des rendements.
+
+Donnez un commentaire contre le thème politique mentionné précédemment. Vous pouvez utiliser jusqu'à 500 caractères.",none
+fr,Default,FAVOR,37,"Vous êtes interrogé sur le sujet politique suivant: Êtes-vous favorable à des réglementations plus strictes pour le secteur financier (p. ex. des règles plus strictes en matière de fonds propres pour les banques, l'interdiction des bonus) ?
+
+Donnez un commentaire en faveur du thème politique mentionné précédemment. Vous pouvez utiliser jusqu'à 500 caractères.",none
+fr,C + SD + Ex + P&C,FAVOR,14,"Vous êtes un politicien Suisse remplissant un questionnaire sur vos opinions politiques pour une application de conseil en vote dans le cadre d'une élection fédérale.
+Vous appartenez au groupe socio-démographique suivant: genre - féminin.
+
+Vous êtes interrogé sur le sujet politique suivant: Faut-il à l'avenir, en cas de pandémie, limiter davantage les possibilités du Conseil fédéral de restreindre la vie privée et économique ?
+
+Voici une explication du problème politique:
+Dans des situations d'urgence sanitaire telles que la pandémie de Covid-19, il peut être nécessaire de décréter des mesures valables pour toute la Suisse afin de protéger la santé publique. Compte tenu de la menace qui évolue souvent rapidement, les décisions concernant les mesures et leur mise en œuvre doivent pouvoir être prises rapidement. Les délais peuvent avoir une influence négative sur l'évolution de la situation épidémiologique (prolongation, amplification, etc.). 
+Afin de garantir une capacité d'action efficace, la loi sur les épidémies (LEp), approuvée par le Parlement et le peuple, prévoit une compétence décisionnelle en conséquence pour le Conseil fédéral. Le Conseil fédéral peut ainsi décider seul de mesures impliquant notamment des restrictions de la vie privée et économique.
+
+Voici des arguments courants en faveur ce thème politique:
+Dans la loi sur les épidémies, il est nécessaire de limiter le pouvoir du Conseil fédéral afin de protéger les droits du peuple, des cantons et du Parlement. En cas d'urgence, le Conseil fédéral doit et peut certes agir, mais le Parlement doit être convoqué sans délai. Celui-ci a en effet une responsabilité de direction qui est légitimée par le peuple. 
+L'absence d'implication juridique du Parlement a un effet négatif sur la participation de la société civile. 
+L'absence d'un débat politique plus large avant la décision entrave la confiance dans les institutions étatiques. Sans confiance, la volonté de la population de mettre en œuvre les mesures est compromise.
+Voici des arguments courants contre le thème politique
+En cas de pandémie, le Conseil fédéral se trouve dans une position idéale pour recueillir rapidement les connaissances pertinentes des experts et prendre les mesures qui s'imposent dans toute la Suisse. Cela permet de garantir que les mesures correspondent aux normes scientifiques les plus récentes et d'éviter une multiplication de mesures cantonales d'efficacité variable. Pour une protection efficace de la santé publique, la compétence décisionnelle prévue par la LEp est donc justifiée. 
+Le Conseil fédéral est conscient de la responsabilité que lui confère la loi sur les épidémies. Il prend toujours ses décisions en matière de lutte contre les virus en tenant compte des conséquences sur la société et l'économie.
+La nécessité d'agir pour limiter les possibilités du Conseil fédéral est faible. Le Conseil fédéral prévoit de soumettre au Parlement, fin 2023, un projet de révision de la LEp qui tiendra compte des conclusions de l'évaluation de la gestion de l'épidémie de Covid-19 et du rôle ou des compétences du Parlement et du Conseil fédéral. A cet égard, il convient également d'examiner si et comment le Parlement peut être impliqué de manière appropriée dans les décisions du Conseil fédéral.
+
+Donnez un commentaire en faveur du thème politique mentionné précédemment. Vous pouvez utiliser jusqu'à 500 caractères.",Weiblich
+fr,C + Ex + P&C,FAVOR,14,"Vous êtes un politicien Suisse remplissant un questionnaire sur vos opinions politiques pour une application de conseil en vote dans le cadre d'une élection fédérale.
+
+
+Vous êtes interrogé sur le sujet politique suivant: Faut-il à l'avenir, en cas de pandémie, limiter davantage les possibilités du Conseil fédéral de restreindre la vie privée et économique ?
+
+Voici une explication du problème politique:
+Dans des situations d'urgence sanitaire telles que la pandémie de Covid-19, il peut être nécessaire de décréter des mesures valables pour toute la Suisse afin de protéger la santé publique. Compte tenu de la menace qui évolue souvent rapidement, les décisions concernant les mesures et leur mise en œuvre doivent pouvoir être prises rapidement. Les délais peuvent avoir une influence négative sur l'évolution de la situation épidémiologique (prolongation, amplification, etc.). 
+Afin de garantir une capacité d'action efficace, la loi sur les épidémies (LEp), approuvée par le Parlement et le peuple, prévoit une compétence décisionnelle en conséquence pour le Conseil fédéral. Le Conseil fédéral peut ainsi décider seul de mesures impliquant notamment des restrictions de la vie privée et économique.
+
+Voici des arguments courants en faveur ce thème politique:
+Dans la loi sur les épidémies, il est nécessaire de limiter le pouvoir du Conseil fédéral afin de protéger les droits du peuple, des cantons et du Parlement. En cas d'urgence, le Conseil fédéral doit et peut certes agir, mais le Parlement doit être convoqué sans délai. Celui-ci a en effet une responsabilité de direction qui est légitimée par le peuple. 
+L'absence d'implication juridique du Parlement a un effet négatif sur la participation de la société civile. 
+L'absence d'un débat politique plus large avant la décision entrave la confiance dans les institutions étatiques. Sans confiance, la volonté de la population de mettre en œuvre les mesures est compromise.
+Voici des arguments courants contre le thème politique
+En cas de pandémie, le Conseil fédéral se trouve dans une position idéale pour recueillir rapidement les connaissances pertinentes des experts et prendre les mesures qui s'imposent dans toute la Suisse. Cela permet de garantir que les mesures correspondent aux normes scientifiques les plus récentes et d'éviter une multiplication de mesures cantonales d'efficacité variable. Pour une protection efficace de la santé publique, la compétence décisionnelle prévue par la LEp est donc justifiée. 
+Le Conseil fédéral est conscient de la responsabilité que lui confère la loi sur les épidémies. Il prend toujours ses décisions en matière de lutte contre les virus en tenant compte des conséquences sur la société et l'économie.
+La nécessité d'agir pour limiter les possibilités du Conseil fédéral est faible. Le Conseil fédéral prévoit de soumettre au Parlement, fin 2023, un projet de révision de la LEp qui tiendra compte des conclusions de l'évaluation de la gestion de l'épidémie de Covid-19 et du rôle ou des compétences du Parlement et du Conseil fédéral. A cet égard, il convient également d'examiner si et comment le Parlement peut être impliqué de manière appropriée dans les décisions du Conseil fédéral.
+
+Donnez un commentaire en faveur du thème politique mentionné précédemment. Vous pouvez utiliser jusqu'à 500 caractères.",none
+fr,C + SD + Ex + P&C,AGAINST,36,"Vous êtes un politicien Suisse remplissant un questionnaire sur vos opinions politiques pour une application de conseil en vote dans le cadre d'une élection fédérale.
+Vous appartenez au groupe socio-démographique suivant: genre - féminin.
+
+Vous êtes interrogé sur le sujet politique suivant: Êtes-vous favorable à des règles plus strictes en matière de protection des animaux pour l'élevage (par ex. accès permanent à l'extérieur) ?
+
+Voici une explication du problème politique:
+En Suisse, environ 16 millions d'animaux de rente sont élevés (2021). Plus des deux tiers sont des poules (13 millions), suivies de 1,5 million de bovins, 1,3 million de porcs, 300'000 moutons ainsi que 80'000 chèvres et chevaux.
+Les éleveurs d'animaux de rente doivent respecter la loi et les ordonnances sur la protection des animaux lorsqu'ils s'occupent de leurs animaux. Celles-ci ont pour objectif premier la dignité et le bien-être des animaux et réglementent, outre les conditions de construction et d'espace, la détention, l'alimentation et les soins adaptés aux espèces, les conditions de transport et d'abattage ainsi que les normes de formation des détenteurs. De plus, la Confédération gère des programmes d'incitation qui octroient des paiements directs aux exploitations particulièrement respectueuses des animaux.
+
+Voici des arguments courants en faveur ce thème politique:
+Des règles plus strictes contribuent à améliorer le bien-être des animaux de rente. L'accès permanent à l'extérieur permet aux animaux de se déplacer librement, de respirer de l'air frais et de manifester leurs comportements naturels. Cela a également un effet positif sur leur santé.
+L'émission de gaz nocifs est réduite lorsque le nombre d'animaux de rente est limité. Outre le bien-être des animaux, cela favorise également la protection de l'environnement.
+Voici des arguments courants contre le thème politique
+La Suisse dispose déjà d'une des législations les plus strictes et les plus détaillées au monde en matière de protection des animaux. Les programmes d'incitation de la Confédération ont encore favorisé la diffusion des modes d'élevage respectueux des animaux. Par rapport à l'étranger, les agriculteurs et agricultrices suisses élèvent moins d'animaux par exploitation et 78% des animaux ont un accès régulier à l'extérieur. Le bien-être des animaux est donc suffisamment garanti en Suisse.
+Des réglementations plus strictes en matière de protection des animaux entraînent des coûts plus élevés pour les agriculteurs. L'aménagement et l'entretien des espaces extérieurs nécessitent des ressources et des investissements supplémentaires qui peuvent se répercuter sur les coûts de production. Les agriculteurs suisses sont ainsi désavantagés par rapport à l'étranger, car les normes nationales ne peuvent pas être appliquées aux denrées alimentaires importées, conformément aux accords conclus avec l'Organisation mondiale du commerce (OMC).
+
+Donnez un commentaire contre le thème politique mentionné précédemment. Vous pouvez utiliser jusqu'à 500 caractères.",Weiblich
+fr,C + Ex + P&C,AGAINST,36,"Vous êtes un politicien Suisse remplissant un questionnaire sur vos opinions politiques pour une application de conseil en vote dans le cadre d'une élection fédérale.
+
+
+Vous êtes interrogé sur le sujet politique suivant: Êtes-vous favorable à des règles plus strictes en matière de protection des animaux pour l'élevage (par ex. accès permanent à l'extérieur) ?
+
+Voici une explication du problème politique:
+En Suisse, environ 16 millions d'animaux de rente sont élevés (2021). Plus des deux tiers sont des poules (13 millions), suivies de 1,5 million de bovins, 1,3 million de porcs, 300'000 moutons ainsi que 80'000 chèvres et chevaux.
+Les éleveurs d'animaux de rente doivent respecter la loi et les ordonnances sur la protection des animaux lorsqu'ils s'occupent de leurs animaux. Celles-ci ont pour objectif premier la dignité et le bien-être des animaux et réglementent, outre les conditions de construction et d'espace, la détention, l'alimentation et les soins adaptés aux espèces, les conditions de transport et d'abattage ainsi que les normes de formation des détenteurs. De plus, la Confédération gère des programmes d'incitation qui octroient des paiements directs aux exploitations particulièrement respectueuses des animaux.
+
+Voici des arguments courants en faveur ce thème politique:
+Des règles plus strictes contribuent à améliorer le bien-être des animaux de rente. L'accès permanent à l'extérieur permet aux animaux de se déplacer librement, de respirer de l'air frais et de manifester leurs comportements naturels. Cela a également un effet positif sur leur santé.
+L'émission de gaz nocifs est réduite lorsque le nombre d'animaux de rente est limité. Outre le bien-être des animaux, cela favorise également la protection de l'environnement.
+Voici des arguments courants contre le thème politique
+La Suisse dispose déjà d'une des législations les plus strictes et les plus détaillées au monde en matière de protection des animaux. Les programmes d'incitation de la Confédération ont encore favorisé la diffusion des modes d'élevage respectueux des animaux. Par rapport à l'étranger, les agriculteurs et agricultrices suisses élèvent moins d'animaux par exploitation et 78% des animaux ont un accès régulier à l'extérieur. Le bien-être des animaux est donc suffisamment garanti en Suisse.
+Des réglementations plus strictes en matière de protection des animaux entraînent des coûts plus élevés pour les agriculteurs. L'aménagement et l'entretien des espaces extérieurs nécessitent des ressources et des investissements supplémentaires qui peuvent se répercuter sur les coûts de production. Les agriculteurs suisses sont ainsi désavantagés par rapport à l'étranger, car les normes nationales ne peuvent pas être appliquées aux denrées alimentaires importées, conformément aux accords conclus avec l'Organisation mondiale du commerce (OMC).
+
+Donnez un commentaire contre le thème politique mentionné précédemment. Vous pouvez utiliser jusqu'à 500 caractères.",none
+fr,Default,AGAINST,25,"Vous êtes interrogé sur le sujet politique suivant: La Confédération doit-elle obtenir des compétences supplémentaires dans le domaine de la numérisation des services étatiques afin de pouvoir imposer des directives et des normes contraignantes aux cantons ?
+
+Donnez un commentaire contre le thème politique mentionné précédemment. Vous pouvez utiliser jusqu'à 500 caractères.",none
+fr,SD + Ex,FAVOR,14,"Vous appartenez au groupe socio-démographique suivant: genre - féminin.
+
+Vous êtes interrogé sur le sujet politique suivant: Faut-il à l'avenir, en cas de pandémie, limiter davantage les possibilités du Conseil fédéral de restreindre la vie privée et économique ?
+
+Voici une explication du problème politique:
+Dans des situations d'urgence sanitaire telles que la pandémie de Covid-19, il peut être nécessaire de décréter des mesures valables pour toute la Suisse afin de protéger la santé publique. Compte tenu de la menace qui évolue souvent rapidement, les décisions concernant les mesures et leur mise en œuvre doivent pouvoir être prises rapidement. Les délais peuvent avoir une influence négative sur l'évolution de la situation épidémiologique (prolongation, amplification, etc.). 
+Afin de garantir une capacité d'action efficace, la loi sur les épidémies (LEp), approuvée par le Parlement et le peuple, prévoit une compétence décisionnelle en conséquence pour le Conseil fédéral. Le Conseil fédéral peut ainsi décider seul de mesures impliquant notamment des restrictions de la vie privée et économique.
+
+Donnez un commentaire en faveur du thème politique mentionné précédemment. Vous pouvez utiliser jusqu'à 500 caractères.",Weiblich
+fr,Ex,FAVOR,14,"Vous êtes interrogé sur le sujet politique suivant: Faut-il à l'avenir, en cas de pandémie, limiter davantage les possibilités du Conseil fédéral de restreindre la vie privée et économique ?
+
+Voici une explication du problème politique:
+Dans des situations d'urgence sanitaire telles que la pandémie de Covid-19, il peut être nécessaire de décréter des mesures valables pour toute la Suisse afin de protéger la santé publique. Compte tenu de la menace qui évolue souvent rapidement, les décisions concernant les mesures et leur mise en œuvre doivent pouvoir être prises rapidement. Les délais peuvent avoir une influence négative sur l'évolution de la situation épidémiologique (prolongation, amplification, etc.). 
+Afin de garantir une capacité d'action efficace, la loi sur les épidémies (LEp), approuvée par le Parlement et le peuple, prévoit une compétence décisionnelle en conséquence pour le Conseil fédéral. Le Conseil fédéral peut ainsi décider seul de mesures impliquant notamment des restrictions de la vie privée et économique.
+
+Donnez un commentaire en faveur du thème politique mentionné précédemment. Vous pouvez utiliser jusqu'à 500 caractères.",none
+fr,SD + Ex,AGAINST,36,"Vous appartenez au groupe socio-démographique suivant: genre - féminin.
+
+Vous êtes interrogé sur le sujet politique suivant: Êtes-vous favorable à des règles plus strictes en matière de protection des animaux pour l'élevage (par ex. accès permanent à l'extérieur) ?
+
+Voici une explication du problème politique:
+En Suisse, environ 16 millions d'animaux de rente sont élevés (2021). Plus des deux tiers sont des poules (13 millions), suivies de 1,5 million de bovins, 1,3 million de porcs, 300'000 moutons ainsi que 80'000 chèvres et chevaux.
+Les éleveurs d'animaux de rente doivent respecter la loi et les ordonnances sur la protection des animaux lorsqu'ils s'occupent de leurs animaux. Celles-ci ont pour objectif premier la dignité et le bien-être des animaux et réglementent, outre les conditions de construction et d'espace, la détention, l'alimentation et les soins adaptés aux espèces, les conditions de transport et d'abattage ainsi que les normes de formation des détenteurs. De plus, la Confédération gère des programmes d'incitation qui octroient des paiements directs aux exploitations particulièrement respectueuses des animaux.
+
+Donnez un commentaire contre le thème politique mentionné précédemment. Vous pouvez utiliser jusqu'à 500 caractères.",Weiblich
+fr,Ex,AGAINST,36,"Vous êtes interrogé sur le sujet politique suivant: Êtes-vous favorable à des règles plus strictes en matière de protection des animaux pour l'élevage (par ex. accès permanent à l'extérieur) ?
+
+Voici une explication du problème politique:
+En Suisse, environ 16 millions d'animaux de rente sont élevés (2021). Plus des deux tiers sont des poules (13 millions), suivies de 1,5 million de bovins, 1,3 million de porcs, 300'000 moutons ainsi que 80'000 chèvres et chevaux.
+Les éleveurs d'animaux de rente doivent respecter la loi et les ordonnances sur la protection des animaux lorsqu'ils s'occupent de leurs animaux. Celles-ci ont pour objectif premier la dignité et le bien-être des animaux et réglementent, outre les conditions de construction et d'espace, la détention, l'alimentation et les soins adaptés aux espèces, les conditions de transport et d'abattage ainsi que les normes de formation des détenteurs. De plus, la Confédération gère des programmes d'incitation qui octroient des paiements directs aux exploitations particulièrement respectueuses des animaux.
+
+Donnez un commentaire contre le thème politique mentionné précédemment. Vous pouvez utiliser jusqu'à 500 caractères.",none
+fr,SD + P&C,FAVOR,14,"Vous appartenez au groupe socio-démographique suivant: genre - féminin.
+
+Vous êtes interrogé sur le sujet politique suivant: Faut-il à l'avenir, en cas de pandémie, limiter davantage les possibilités du Conseil fédéral de restreindre la vie privée et économique ?
+
+Voici des arguments courants en faveur ce thème politique:
+Dans la loi sur les épidémies, il est nécessaire de limiter le pouvoir du Conseil fédéral afin de protéger les droits du peuple, des cantons et du Parlement. En cas d'urgence, le Conseil fédéral doit et peut certes agir, mais le Parlement doit être convoqué sans délai. Celui-ci a en effet une responsabilité de direction qui est légitimée par le peuple. 
+L'absence d'implication juridique du Parlement a un effet négatif sur la participation de la société civile. 
+L'absence d'un débat politique plus large avant la décision entrave la confiance dans les institutions étatiques. Sans confiance, la volonté de la population de mettre en œuvre les mesures est compromise.
+Voici des arguments courants contre le thème politique
+En cas de pandémie, le Conseil fédéral se trouve dans une position idéale pour recueillir rapidement les connaissances pertinentes des experts et prendre les mesures qui s'imposent dans toute la Suisse. Cela permet de garantir que les mesures correspondent aux normes scientifiques les plus récentes et d'éviter une multiplication de mesures cantonales d'efficacité variable. Pour une protection efficace de la santé publique, la compétence décisionnelle prévue par la LEp est donc justifiée. 
+Le Conseil fédéral est conscient de la responsabilité que lui confère la loi sur les épidémies. Il prend toujours ses décisions en matière de lutte contre les virus en tenant compte des conséquences sur la société et l'économie.
+La nécessité d'agir pour limiter les possibilités du Conseil fédéral est faible. Le Conseil fédéral prévoit de soumettre au Parlement, fin 2023, un projet de révision de la LEp qui tiendra compte des conclusions de l'évaluation de la gestion de l'épidémie de Covid-19 et du rôle ou des compétences du Parlement et du Conseil fédéral. A cet égard, il convient également d'examiner si et comment le Parlement peut être impliqué de manière appropriée dans les décisions du Conseil fédéral.
+
+Donnez un commentaire en faveur du thème politique mentionné précédemment. Vous pouvez utiliser jusqu'à 500 caractères.",Weiblich
+fr,P&C,FAVOR,14,"Vous êtes interrogé sur le sujet politique suivant: Faut-il à l'avenir, en cas de pandémie, limiter davantage les possibilités du Conseil fédéral de restreindre la vie privée et économique ?
+
+Voici des arguments courants en faveur ce thème politique:
+Dans la loi sur les épidémies, il est nécessaire de limiter le pouvoir du Conseil fédéral afin de protéger les droits du peuple, des cantons et du Parlement. En cas d'urgence, le Conseil fédéral doit et peut certes agir, mais le Parlement doit être convoqué sans délai. Celui-ci a en effet une responsabilité de direction qui est légitimée par le peuple. 
+L'absence d'implication juridique du Parlement a un effet négatif sur la participation de la société civile. 
+L'absence d'un débat politique plus large avant la décision entrave la confiance dans les institutions étatiques. Sans confiance, la volonté de la population de mettre en œuvre les mesures est compromise.
+Voici des arguments courants contre le thème politique
+En cas de pandémie, le Conseil fédéral se trouve dans une position idéale pour recueillir rapidement les connaissances pertinentes des experts et prendre les mesures qui s'imposent dans toute la Suisse. Cela permet de garantir que les mesures correspondent aux normes scientifiques les plus récentes et d'éviter une multiplication de mesures cantonales d'efficacité variable. Pour une protection efficace de la santé publique, la compétence décisionnelle prévue par la LEp est donc justifiée. 
+Le Conseil fédéral est conscient de la responsabilité que lui confère la loi sur les épidémies. Il prend toujours ses décisions en matière de lutte contre les virus en tenant compte des conséquences sur la société et l'économie.
+La nécessité d'agir pour limiter les possibilités du Conseil fédéral est faible. Le Conseil fédéral prévoit de soumettre au Parlement, fin 2023, un projet de révision de la LEp qui tiendra compte des conclusions de l'évaluation de la gestion de l'épidémie de Covid-19 et du rôle ou des compétences du Parlement et du Conseil fédéral. A cet égard, il convient également d'examiner si et comment le Parlement peut être impliqué de manière appropriée dans les décisions du Conseil fédéral.
+
+Donnez un commentaire en faveur du thème politique mentionné précédemment. Vous pouvez utiliser jusqu'à 500 caractères.",none
+fr,SD + P&C,AGAINST,36,"Vous appartenez au groupe socio-démographique suivant: genre - féminin.
+
+Vous êtes interrogé sur le sujet politique suivant: Êtes-vous favorable à des règles plus strictes en matière de protection des animaux pour l'élevage (par ex. accès permanent à l'extérieur) ?
+
+Voici des arguments courants en faveur ce thème politique:
+Des règles plus strictes contribuent à améliorer le bien-être des animaux de rente. L'accès permanent à l'extérieur permet aux animaux de se déplacer librement, de respirer de l'air frais et de manifester leurs comportements naturels. Cela a également un effet positif sur leur santé.
+L'émission de gaz nocifs est réduite lorsque le nombre d'animaux de rente est limité. Outre le bien-être des animaux, cela favorise également la protection de l'environnement.
+Voici des arguments courants contre le thème politique
+La Suisse dispose déjà d'une des législations les plus strictes et les plus détaillées au monde en matière de protection des animaux. Les programmes d'incitation de la Confédération ont encore favorisé la diffusion des modes d'élevage respectueux des animaux. Par rapport à l'étranger, les agriculteurs et agricultrices suisses élèvent moins d'animaux par exploitation et 78% des animaux ont un accès régulier à l'extérieur. Le bien-être des animaux est donc suffisamment garanti en Suisse.
+Des réglementations plus strictes en matière de protection des animaux entraînent des coûts plus élevés pour les agriculteurs. L'aménagement et l'entretien des espaces extérieurs nécessitent des ressources et des investissements supplémentaires qui peuvent se répercuter sur les coûts de production. Les agriculteurs suisses sont ainsi désavantagés par rapport à l'étranger, car les normes nationales ne peuvent pas être appliquées aux denrées alimentaires importées, conformément aux accords conclus avec l'Organisation mondiale du commerce (OMC).
+
+Donnez un commentaire contre le thème politique mentionné précédemment. Vous pouvez utiliser jusqu'à 500 caractères.",Weiblich
+fr,P&C,AGAINST,36,"Vous êtes interrogé sur le sujet politique suivant: Êtes-vous favorable à des règles plus strictes en matière de protection des animaux pour l'élevage (par ex. accès permanent à l'extérieur) ?
+
+Voici des arguments courants en faveur ce thème politique:
+Des règles plus strictes contribuent à améliorer le bien-être des animaux de rente. L'accès permanent à l'extérieur permet aux animaux de se déplacer librement, de respirer de l'air frais et de manifester leurs comportements naturels. Cela a également un effet positif sur leur santé.
+L'émission de gaz nocifs est réduite lorsque le nombre d'animaux de rente est limité. Outre le bien-être des animaux, cela favorise également la protection de l'environnement.
+Voici des arguments courants contre le thème politique
+La Suisse dispose déjà d'une des législations les plus strictes et les plus détaillées au monde en matière de protection des animaux. Les programmes d'incitation de la Confédération ont encore favorisé la diffusion des modes d'élevage respectueux des animaux. Par rapport à l'étranger, les agriculteurs et agricultrices suisses élèvent moins d'animaux par exploitation et 78% des animaux ont un accès régulier à l'extérieur. Le bien-être des animaux est donc suffisamment garanti en Suisse.
+Des réglementations plus strictes en matière de protection des animaux entraînent des coûts plus élevés pour les agriculteurs. L'aménagement et l'entretien des espaces extérieurs nécessitent des ressources et des investissements supplémentaires qui peuvent se répercuter sur les coûts de production. Les agriculteurs suisses sont ainsi désavantagés par rapport à l'étranger, car les normes nationales ne peuvent pas être appliquées aux denrées alimentaires importées, conformément aux accords conclus avec l'Organisation mondiale du commerce (OMC).
+
+Donnez un commentaire contre le thème politique mentionné précédemment. Vous pouvez utiliser jusqu'à 500 caractères.",none
+fr,SD + Ex + P&C,FAVOR,14,"Vous appartenez au groupe socio-démographique suivant: genre - féminin.
+
+Vous êtes interrogé sur le sujet politique suivant: Faut-il à l'avenir, en cas de pandémie, limiter davantage les possibilités du Conseil fédéral de restreindre la vie privée et économique ?
+
+Voici une explication du problème politique:
+Dans des situations d'urgence sanitaire telles que la pandémie de Covid-19, il peut être nécessaire de décréter des mesures valables pour toute la Suisse afin de protéger la santé publique. Compte tenu de la menace qui évolue souvent rapidement, les décisions concernant les mesures et leur mise en œuvre doivent pouvoir être prises rapidement. Les délais peuvent avoir une influence négative sur l'évolution de la situation épidémiologique (prolongation, amplification, etc.). 
+Afin de garantir une capacité d'action efficace, la loi sur les épidémies (LEp), approuvée par le Parlement et le peuple, prévoit une compétence décisionnelle en conséquence pour le Conseil fédéral. Le Conseil fédéral peut ainsi décider seul de mesures impliquant notamment des restrictions de la vie privée et économique.
+
+Voici des arguments courants en faveur ce thème politique:
+Dans la loi sur les épidémies, il est nécessaire de limiter le pouvoir du Conseil fédéral afin de protéger les droits du peuple, des cantons et du Parlement. En cas d'urgence, le Conseil fédéral doit et peut certes agir, mais le Parlement doit être convoqué sans délai. Celui-ci a en effet une responsabilité de direction qui est légitimée par le peuple. 
+L'absence d'implication juridique du Parlement a un effet négatif sur la participation de la société civile. 
+L'absence d'un débat politique plus large avant la décision entrave la confiance dans les institutions étatiques. Sans confiance, la volonté de la population de mettre en œuvre les mesures est compromise.
+Voici des arguments courants contre le thème politique
+En cas de pandémie, le Conseil fédéral se trouve dans une position idéale pour recueillir rapidement les connaissances pertinentes des experts et prendre les mesures qui s'imposent dans toute la Suisse. Cela permet de garantir que les mesures correspondent aux normes scientifiques les plus récentes et d'éviter une multiplication de mesures cantonales d'efficacité variable. Pour une protection efficace de la santé publique, la compétence décisionnelle prévue par la LEp est donc justifiée. 
+Le Conseil fédéral est conscient de la responsabilité que lui confère la loi sur les épidémies. Il prend toujours ses décisions en matière de lutte contre les virus en tenant compte des conséquences sur la société et l'économie.
+La nécessité d'agir pour limiter les possibilités du Conseil fédéral est faible. Le Conseil fédéral prévoit de soumettre au Parlement, fin 2023, un projet de révision de la LEp qui tiendra compte des conclusions de l'évaluation de la gestion de l'épidémie de Covid-19 et du rôle ou des compétences du Parlement et du Conseil fédéral. A cet égard, il convient également d'examiner si et comment le Parlement peut être impliqué de manière appropriée dans les décisions du Conseil fédéral.
+
+Donnez un commentaire en faveur du thème politique mentionné précédemment. Vous pouvez utiliser jusqu'à 500 caractères.",Weiblich
+fr,Ex + P&C,FAVOR,14,"Vous êtes interrogé sur le sujet politique suivant: Faut-il à l'avenir, en cas de pandémie, limiter davantage les possibilités du Conseil fédéral de restreindre la vie privée et économique ?
+
+Voici une explication du problème politique:
+Dans des situations d'urgence sanitaire telles que la pandémie de Covid-19, il peut être nécessaire de décréter des mesures valables pour toute la Suisse afin de protéger la santé publique. Compte tenu de la menace qui évolue souvent rapidement, les décisions concernant les mesures et leur mise en œuvre doivent pouvoir être prises rapidement. Les délais peuvent avoir une influence négative sur l'évolution de la situation épidémiologique (prolongation, amplification, etc.). 
+Afin de garantir une capacité d'action efficace, la loi sur les épidémies (LEp), approuvée par le Parlement et le peuple, prévoit une compétence décisionnelle en conséquence pour le Conseil fédéral. Le Conseil fédéral peut ainsi décider seul de mesures impliquant notamment des restrictions de la vie privée et économique.
+
+Voici des arguments courants en faveur ce thème politique:
+Dans la loi sur les épidémies, il est nécessaire de limiter le pouvoir du Conseil fédéral afin de protéger les droits du peuple, des cantons et du Parlement. En cas d'urgence, le Conseil fédéral doit et peut certes agir, mais le Parlement doit être convoqué sans délai. Celui-ci a en effet une responsabilité de direction qui est légitimée par le peuple. 
+L'absence d'implication juridique du Parlement a un effet négatif sur la participation de la société civile. 
+L'absence d'un débat politique plus large avant la décision entrave la confiance dans les institutions étatiques. Sans confiance, la volonté de la population de mettre en œuvre les mesures est compromise.
+Voici des arguments courants contre le thème politique
+En cas de pandémie, le Conseil fédéral se trouve dans une position idéale pour recueillir rapidement les connaissances pertinentes des experts et prendre les mesures qui s'imposent dans toute la Suisse. Cela permet de garantir que les mesures correspondent aux normes scientifiques les plus récentes et d'éviter une multiplication de mesures cantonales d'efficacité variable. Pour une protection efficace de la santé publique, la compétence décisionnelle prévue par la LEp est donc justifiée. 
+Le Conseil fédéral est conscient de la responsabilité que lui confère la loi sur les épidémies. Il prend toujours ses décisions en matière de lutte contre les virus en tenant compte des conséquences sur la société et l'économie.
+La nécessité d'agir pour limiter les possibilités du Conseil fédéral est faible. Le Conseil fédéral prévoit de soumettre au Parlement, fin 2023, un projet de révision de la LEp qui tiendra compte des conclusions de l'évaluation de la gestion de l'épidémie de Covid-19 et du rôle ou des compétences du Parlement et du Conseil fédéral. A cet égard, il convient également d'examiner si et comment le Parlement peut être impliqué de manière appropriée dans les décisions du Conseil fédéral.
+
+Donnez un commentaire en faveur du thème politique mentionné précédemment. Vous pouvez utiliser jusqu'à 500 caractères.",none
+fr,SD + Ex + P&C,AGAINST,36,"Vous appartenez au groupe socio-démographique suivant: genre - féminin.
+
+Vous êtes interrogé sur le sujet politique suivant: Êtes-vous favorable à des règles plus strictes en matière de protection des animaux pour l'élevage (par ex. accès permanent à l'extérieur) ?
+
+Voici une explication du problème politique:
+En Suisse, environ 16 millions d'animaux de rente sont élevés (2021). Plus des deux tiers sont des poules (13 millions), suivies de 1,5 million de bovins, 1,3 million de porcs, 300'000 moutons ainsi que 80'000 chèvres et chevaux.
+Les éleveurs d'animaux de rente doivent respecter la loi et les ordonnances sur la protection des animaux lorsqu'ils s'occupent de leurs animaux. Celles-ci ont pour objectif premier la dignité et le bien-être des animaux et réglementent, outre les conditions de construction et d'espace, la détention, l'alimentation et les soins adaptés aux espèces, les conditions de transport et d'abattage ainsi que les normes de formation des détenteurs. De plus, la Confédération gère des programmes d'incitation qui octroient des paiements directs aux exploitations particulièrement respectueuses des animaux.
+
+Voici des arguments courants en faveur ce thème politique:
+Des règles plus strictes contribuent à améliorer le bien-être des animaux de rente. L'accès permanent à l'extérieur permet aux animaux de se déplacer librement, de respirer de l'air frais et de manifester leurs comportements naturels. Cela a également un effet positif sur leur santé.
+L'émission de gaz nocifs est réduite lorsque le nombre d'animaux de rente est limité. Outre le bien-être des animaux, cela favorise également la protection de l'environnement.
+Voici des arguments courants contre le thème politique
+La Suisse dispose déjà d'une des législations les plus strictes et les plus détaillées au monde en matière de protection des animaux. Les programmes d'incitation de la Confédération ont encore favorisé la diffusion des modes d'élevage respectueux des animaux. Par rapport à l'étranger, les agriculteurs et agricultrices suisses élèvent moins d'animaux par exploitation et 78% des animaux ont un accès régulier à l'extérieur. Le bien-être des animaux est donc suffisamment garanti en Suisse.
+Des réglementations plus strictes en matière de protection des animaux entraînent des coûts plus élevés pour les agriculteurs. L'aménagement et l'entretien des espaces extérieurs nécessitent des ressources et des investissements supplémentaires qui peuvent se répercuter sur les coûts de production. Les agriculteurs suisses sont ainsi désavantagés par rapport à l'étranger, car les normes nationales ne peuvent pas être appliquées aux denrées alimentaires importées, conformément aux accords conclus avec l'Organisation mondiale du commerce (OMC).
+
+Donnez un commentaire contre le thème politique mentionné précédemment. Vous pouvez utiliser jusqu'à 500 caractères.",Weiblich
+fr,Ex + P&C,AGAINST,36,"Vous êtes interrogé sur le sujet politique suivant: Êtes-vous favorable à des règles plus strictes en matière de protection des animaux pour l'élevage (par ex. accès permanent à l'extérieur) ?
+
+Voici une explication du problème politique:
+En Suisse, environ 16 millions d'animaux de rente sont élevés (2021). Plus des deux tiers sont des poules (13 millions), suivies de 1,5 million de bovins, 1,3 million de porcs, 300'000 moutons ainsi que 80'000 chèvres et chevaux.
+Les éleveurs d'animaux de rente doivent respecter la loi et les ordonnances sur la protection des animaux lorsqu'ils s'occupent de leurs animaux. Celles-ci ont pour objectif premier la dignité et le bien-être des animaux et réglementent, outre les conditions de construction et d'espace, la détention, l'alimentation et les soins adaptés aux espèces, les conditions de transport et d'abattage ainsi que les normes de formation des détenteurs. De plus, la Confédération gère des programmes d'incitation qui octroient des paiements directs aux exploitations particulièrement respectueuses des animaux.
+
+Voici des arguments courants en faveur ce thème politique:
+Des règles plus strictes contribuent à améliorer le bien-être des animaux de rente. L'accès permanent à l'extérieur permet aux animaux de se déplacer librement, de respirer de l'air frais et de manifester leurs comportements naturels. Cela a également un effet positif sur leur santé.
+L'émission de gaz nocifs est réduite lorsque le nombre d'animaux de rente est limité. Outre le bien-être des animaux, cela favorise également la protection de l'environnement.
+Voici des arguments courants contre le thème politique
+La Suisse dispose déjà d'une des législations les plus strictes et les plus détaillées au monde en matière de protection des animaux. Les programmes d'incitation de la Confédération ont encore favorisé la diffusion des modes d'élevage respectueux des animaux. Par rapport à l'étranger, les agriculteurs et agricultrices suisses élèvent moins d'animaux par exploitation et 78% des animaux ont un accès régulier à l'extérieur. Le bien-être des animaux est donc suffisamment garanti en Suisse.
+Des réglementations plus strictes en matière de protection des animaux entraînent des coûts plus élevés pour les agriculteurs. L'aménagement et l'entretien des espaces extérieurs nécessitent des ressources et des investissements supplémentaires qui peuvent se répercuter sur les coûts de production. Les agriculteurs suisses sont ainsi désavantagés par rapport à l'étranger, car les normes nationales ne peuvent pas être appliquées aux denrées alimentaires importées, conformément aux accords conclus avec l'Organisation mondiale du commerce (OMC).
+
+Donnez un commentaire contre le thème politique mentionné précédemment. Vous pouvez utiliser jusqu'à 500 caractères.",none
+fr,C + SD,FAVOR,14,"Vous êtes un politicien Suisse remplissant un questionnaire sur vos opinions politiques pour une application de conseil en vote dans le cadre d'une élection fédérale.
+Vous appartenez au groupe socio-démographique suivant: genre - féminin.
+
+Vous êtes interrogé sur le sujet politique suivant: Faut-il à l'avenir, en cas de pandémie, limiter davantage les possibilités du Conseil fédéral de restreindre la vie privée et économique ?
+
+Donnez un commentaire en faveur du thème politique mentionné précédemment. Vous pouvez utiliser jusqu'à 500 caractères.",Weiblich
+fr,C,FAVOR,14,"Vous êtes un politicien Suisse remplissant un questionnaire sur vos opinions politiques pour une application de conseil en vote dans le cadre d'une élection fédérale.
+
+
+Vous êtes interrogé sur le sujet politique suivant: Faut-il à l'avenir, en cas de pandémie, limiter davantage les possibilités du Conseil fédéral de restreindre la vie privée et économique ?
+
+Donnez un commentaire en faveur du thème politique mentionné précédemment. Vous pouvez utiliser jusqu'à 500 caractères.",none
+fr,C + SD,AGAINST,36,"Vous êtes un politicien Suisse remplissant un questionnaire sur vos opinions politiques pour une application de conseil en vote dans le cadre d'une élection fédérale.
+Vous appartenez au groupe socio-démographique suivant: genre - féminin.
+
+Vous êtes interrogé sur le sujet politique suivant: Êtes-vous favorable à des règles plus strictes en matière de protection des animaux pour l'élevage (par ex. accès permanent à l'extérieur) ?
+
+Donnez un commentaire contre le thème politique mentionné précédemment. Vous pouvez utiliser jusqu'à 500 caractères.",Weiblich
+fr,C,AGAINST,36,"Vous êtes un politicien Suisse remplissant un questionnaire sur vos opinions politiques pour une application de conseil en vote dans le cadre d'une élection fédérale.
+
+
+Vous êtes interrogé sur le sujet politique suivant: Êtes-vous favorable à des règles plus strictes en matière de protection des animaux pour l'élevage (par ex. accès permanent à l'extérieur) ?
+
+Donnez un commentaire contre le thème politique mentionné précédemment. Vous pouvez utiliser jusqu'à 500 caractères.",none
+fr,C + SD + Ex,FAVOR,14,"Vous êtes un politicien Suisse remplissant un questionnaire sur vos opinions politiques pour une application de conseil en vote dans le cadre d'une élection fédérale.
+Vous appartenez au groupe socio-démographique suivant: genre - féminin.
+
+Vous êtes interrogé sur le sujet politique suivant: Faut-il à l'avenir, en cas de pandémie, limiter davantage les possibilités du Conseil fédéral de restreindre la vie privée et économique ?
+
+Voici une explication du problème politique:
+Dans des situations d'urgence sanitaire telles que la pandémie de Covid-19, il peut être nécessaire de décréter des mesures valables pour toute la Suisse afin de protéger la santé publique. Compte tenu de la menace qui évolue souvent rapidement, les décisions concernant les mesures et leur mise en œuvre doivent pouvoir être prises rapidement. Les délais peuvent avoir une influence négative sur l'évolution de la situation épidémiologique (prolongation, amplification, etc.). 
+Afin de garantir une capacité d'action efficace, la loi sur les épidémies (LEp), approuvée par le Parlement et le peuple, prévoit une compétence décisionnelle en conséquence pour le Conseil fédéral. Le Conseil fédéral peut ainsi décider seul de mesures impliquant notamment des restrictions de la vie privée et économique.
+
+Donnez un commentaire en faveur du thème politique mentionné précédemment. Vous pouvez utiliser jusqu'à 500 caractères.",Weiblich
+fr,C + Ex,FAVOR,14,"Vous êtes un politicien Suisse remplissant un questionnaire sur vos opinions politiques pour une application de conseil en vote dans le cadre d'une élection fédérale.
+
+
+Vous êtes interrogé sur le sujet politique suivant: Faut-il à l'avenir, en cas de pandémie, limiter davantage les possibilités du Conseil fédéral de restreindre la vie privée et économique ?
+
+Voici une explication du problème politique:
+Dans des situations d'urgence sanitaire telles que la pandémie de Covid-19, il peut être nécessaire de décréter des mesures valables pour toute la Suisse afin de protéger la santé publique. Compte tenu de la menace qui évolue souvent rapidement, les décisions concernant les mesures et leur mise en œuvre doivent pouvoir être prises rapidement. Les délais peuvent avoir une influence négative sur l'évolution de la situation épidémiologique (prolongation, amplification, etc.). 
+Afin de garantir une capacité d'action efficace, la loi sur les épidémies (LEp), approuvée par le Parlement et le peuple, prévoit une compétence décisionnelle en conséquence pour le Conseil fédéral. Le Conseil fédéral peut ainsi décider seul de mesures impliquant notamment des restrictions de la vie privée et économique.
+
+Donnez un commentaire en faveur du thème politique mentionné précédemment. Vous pouvez utiliser jusqu'à 500 caractères.",none
+fr,C + SD + Ex,AGAINST,36,"Vous êtes un politicien Suisse remplissant un questionnaire sur vos opinions politiques pour une application de conseil en vote dans le cadre d'une élection fédérale.
+Vous appartenez au groupe socio-démographique suivant: genre - féminin.
+
+Vous êtes interrogé sur le sujet politique suivant: Êtes-vous favorable à des règles plus strictes en matière de protection des animaux pour l'élevage (par ex. accès permanent à l'extérieur) ?
+
+Voici une explication du problème politique:
+En Suisse, environ 16 millions d'animaux de rente sont élevés (2021). Plus des deux tiers sont des poules (13 millions), suivies de 1,5 million de bovins, 1,3 million de porcs, 300'000 moutons ainsi que 80'000 chèvres et chevaux.
+Les éleveurs d'animaux de rente doivent respecter la loi et les ordonnances sur la protection des animaux lorsqu'ils s'occupent de leurs animaux. Celles-ci ont pour objectif premier la dignité et le bien-être des animaux et réglementent, outre les conditions de construction et d'espace, la détention, l'alimentation et les soins adaptés aux espèces, les conditions de transport et d'abattage ainsi que les normes de formation des détenteurs. De plus, la Confédération gère des programmes d'incitation qui octroient des paiements directs aux exploitations particulièrement respectueuses des animaux.
+
+Donnez un commentaire contre le thème politique mentionné précédemment. Vous pouvez utiliser jusqu'à 500 caractères.",Weiblich
+fr,C + Ex,AGAINST,36,"Vous êtes un politicien Suisse remplissant un questionnaire sur vos opinions politiques pour une application de conseil en vote dans le cadre d'une élection fédérale.
+
+
+Vous êtes interrogé sur le sujet politique suivant: Êtes-vous favorable à des règles plus strictes en matière de protection des animaux pour l'élevage (par ex. accès permanent à l'extérieur) ?
+
+Voici une explication du problème politique:
+En Suisse, environ 16 millions d'animaux de rente sont élevés (2021). Plus des deux tiers sont des poules (13 millions), suivies de 1,5 million de bovins, 1,3 million de porcs, 300'000 moutons ainsi que 80'000 chèvres et chevaux.
+Les éleveurs d'animaux de rente doivent respecter la loi et les ordonnances sur la protection des animaux lorsqu'ils s'occupent de leurs animaux. Celles-ci ont pour objectif premier la dignité et le bien-être des animaux et réglementent, outre les conditions de construction et d'espace, la détention, l'alimentation et les soins adaptés aux espèces, les conditions de transport et d'abattage ainsi que les normes de formation des détenteurs. De plus, la Confédération gère des programmes d'incitation qui octroient des paiements directs aux exploitations particulièrement respectueuses des animaux.
+
+Donnez un commentaire contre le thème politique mentionné précédemment. Vous pouvez utiliser jusqu'à 500 caractères.",none
+fr,C + P&C,FAVOR,14,"Vous êtes un politicien Suisse remplissant un questionnaire sur vos opinions politiques pour une application de conseil en vote dans le cadre d'une élection fédérale.
+
+
+Vous êtes interrogé sur le sujet politique suivant: Faut-il à l'avenir, en cas de pandémie, limiter davantage les possibilités du Conseil fédéral de restreindre la vie privée et économique ?
+
+Voici des arguments courants en faveur ce thème politique:
+Dans la loi sur les épidémies, il est nécessaire de limiter le pouvoir du Conseil fédéral afin de protéger les droits du peuple, des cantons et du Parlement. En cas d'urgence, le Conseil fédéral doit et peut certes agir, mais le Parlement doit être convoqué sans délai. Celui-ci a en effet une responsabilité de direction qui est légitimée par le peuple. 
+L'absence d'implication juridique du Parlement a un effet négatif sur la participation de la société civile. 
+L'absence d'un débat politique plus large avant la décision entrave la confiance dans les institutions étatiques. Sans confiance, la volonté de la population de mettre en œuvre les mesures est compromise.
+Voici des arguments courants contre le thème politique
+En cas de pandémie, le Conseil fédéral se trouve dans une position idéale pour recueillir rapidement les connaissances pertinentes des experts et prendre les mesures qui s'imposent dans toute la Suisse. Cela permet de garantir que les mesures correspondent aux normes scientifiques les plus récentes et d'éviter une multiplication de mesures cantonales d'efficacité variable. Pour une protection efficace de la santé publique, la compétence décisionnelle prévue par la LEp est donc justifiée. 
+Le Conseil fédéral est conscient de la responsabilité que lui confère la loi sur les épidémies. Il prend toujours ses décisions en matière de lutte contre les virus en tenant compte des conséquences sur la société et l'économie.
+La nécessité d'agir pour limiter les possibilités du Conseil fédéral est faible. Le Conseil fédéral prévoit de soumettre au Parlement, fin 2023, un projet de révision de la LEp qui tiendra compte des conclusions de l'évaluation de la gestion de l'épidémie de Covid-19 et du rôle ou des compétences du Parlement et du Conseil fédéral. A cet égard, il convient également d'examiner si et comment le Parlement peut être impliqué de manière appropriée dans les décisions du Conseil fédéral.
+
+Donnez un commentaire en faveur du thème politique mentionné précédemment. Vous pouvez utiliser jusqu'à 500 caractères.",none
+it,SD,FAVOR,10,"Lei appartiene al seguente gruppo sociodemografico: genere - femminile.
+
+Le viene chiesto del seguente tema politico: Per le coppie di coniugi, l’ammontare della rendita è oggi limitato al 150% della rendita AVS individuale massima (tetto massimo). È favorevole all’abolizione di questa limitazione?
+
+Scriva un commento a favore il tema politico precedentemente menzionato. Ha a disposizione fino a 500 caratteri.",Weiblich
+it,Default,FAVOR,28,"Le viene chiesto del seguente tema politico: Secondo Lei, nel campo della “difesa nazionale” la Confederazione dovrebbe spendere di più o di meno?
+
+Scriva un commento a favore il tema politico precedentemente menzionato. Ha a disposizione fino a 500 caratteri.",none
+it,SD,AGAINST,27,"Lei appartiene al seguente gruppo sociodemografico: genere - maschile.
+
+Le viene chiesto del seguente tema politico: Secondo Lei, nel campo della “collaborazione per lo sviluppo” la Confederazione dovrebbe spendere di più o di meno?
+
+Scriva un commento contro il tema politico precedentemente menzionato. Ha a disposizione fino a 500 caratteri.",Männlich
+it,Default,AGAINST,27,"Le viene chiesto del seguente tema politico: Secondo Lei, nel campo della “collaborazione per lo sviluppo” la Confederazione dovrebbe spendere di più o di meno?
+
+Scriva un commento contro il tema politico precedentemente menzionato. Ha a disposizione fino a 500 caratteri.",none
+it,SD + Ex,FAVOR,10,"Lei appartiene al seguente gruppo sociodemografico: genere - femminile.
+
+Le viene chiesto del seguente tema politico: Per le coppie di coniugi, l’ammontare della rendita è oggi limitato al 150% della rendita AVS individuale massima (tetto massimo). È favorevole all’abolizione di questa limitazione?
+
+La seguente é una spiegazione del tema politico:
+
+ L'AVS è il primo pilastro della previdenza per la vecchiaia. Il primo pilastro ha lo scopo di garantire ai pensionati un reddito sufficiente a coprire i loro bisogni fondamentali dopo il pensionamento. Attualmente, la pensione di vecchiaia minima per una persona single ammonta a 1.225 franchi al mese; la pensione massima ammonta a 2450 franchi.
+Per le coppie, la legge AVS stabilisce che la somma delle rendite individuali non deve superare i 3.675 franchi. Ciò corrisponde al 150% della pensione individuale massima (2450 franchi). In linea di principio, le pensioni di coppia vengono versate separatamente. Se le rispettive pensioni individuali di una coppia superano l'importo di 3.675 franchi, le pensioni vengono ridotte. In altre parole, le coppie ricevono una pensione inferiore rispetto alle persone single se la somma delle loro pensioni individuali supera i 3.675 franchi.
+
+Scriva un commento a favore il tema politico precedentemente menzionato. Ha a disposizione fino a 500 caratteri.",Weiblich
+it,Ex,FAVOR,10,"Le viene chiesto del seguente tema politico: Per le coppie di coniugi, l’ammontare della rendita è oggi limitato al 150% della rendita AVS individuale massima (tetto massimo). È favorevole all’abolizione di questa limitazione?
+
+La seguente é una spiegazione del tema politico:
+
+ L'AVS è il primo pilastro della previdenza per la vecchiaia. Il primo pilastro ha lo scopo di garantire ai pensionati un reddito sufficiente a coprire i loro bisogni fondamentali dopo il pensionamento. Attualmente, la pensione di vecchiaia minima per una persona single ammonta a 1.225 franchi al mese; la pensione massima ammonta a 2450 franchi.
+Per le coppie, la legge AVS stabilisce che la somma delle rendite individuali non deve superare i 3.675 franchi. Ciò corrisponde al 150% della pensione individuale massima (2450 franchi). In linea di principio, le pensioni di coppia vengono versate separatamente. Se le rispettive pensioni individuali di una coppia superano l'importo di 3.675 franchi, le pensioni vengono ridotte. In altre parole, le coppie ricevono una pensione inferiore rispetto alle persone single se la somma delle loro pensioni individuali supera i 3.675 franchi.
+
+Scriva un commento a favore il tema politico precedentemente menzionato. Ha a disposizione fino a 500 caratteri.",none
+it,SD + Ex,AGAINST,37,"Lei appartiene al seguente gruppo sociodemografico: genere - femminile.
+
+Le viene chiesto del seguente tema politico: È favorevole a una maggiore limitazione del potere del Consiglio federale di imporre restrizioni alla vita privata ed economica in caso di future pandemie?
+
+La seguente é una spiegazione del tema politico:
+
+In situazioni di emergenza sanitaria come la pandemia di Covid-19, potrebbe essere necessario emanare misure valide per tutta la Svizzera al fine di proteggere la salute della popolazione. Considerato il contesto delle minacce in rapida evoluzione, le decisioni relative alle misure e alla loro attuazione devono poter essere prese rapidamente. I ritardi possono avere un impatto negativo sull'evoluzione della situazione epidemiologica (prolungamento, amplificazione, ecc.).
+Per garantire una capacità d'azione efficace, la legge sulle epidemie (LPAmb), approvata dal Parlamento e dal Popolo, prevede competenze decisionali specifiche per il Consiglio federale. Il Consiglio federale può quindi decidere autonomamente in merito a misure che comportano in particolare restrizioni alla vita privata ed economica.
+
+Scriva un commento contro il tema politico precedentemente menzionato. Ha a disposizione fino a 500 caratteri.",Weiblich
+it,Ex,AGAINST,37,"Le viene chiesto del seguente tema politico: È favorevole a una maggiore limitazione del potere del Consiglio federale di imporre restrizioni alla vita privata ed economica in caso di future pandemie?
+
+La seguente é una spiegazione del tema politico:
+
+In situazioni di emergenza sanitaria come la pandemia di Covid-19, potrebbe essere necessario emanare misure valide per tutta la Svizzera al fine di proteggere la salute della popolazione. Considerato il contesto delle minacce in rapida evoluzione, le decisioni relative alle misure e alla loro attuazione devono poter essere prese rapidamente. I ritardi possono avere un impatto negativo sull'evoluzione della situazione epidemiologica (prolungamento, amplificazione, ecc.).
+Per garantire una capacità d'azione efficace, la legge sulle epidemie (LPAmb), approvata dal Parlamento e dal Popolo, prevede competenze decisionali specifiche per il Consiglio federale. Il Consiglio federale può quindi decidere autonomamente in merito a misure che comportano in particolare restrizioni alla vita privata ed economica.
+
+Scriva un commento contro il tema politico precedentemente menzionato. Ha a disposizione fino a 500 caratteri.",none
+it,SD + P&C,FAVOR,10,"Lei appartiene al seguente gruppo sociodemografico: genere - femminile.
+
+Le viene chiesto del seguente tema politico: Per le coppie di coniugi, l’ammontare della rendita è oggi limitato al 150% della rendita AVS individuale massima (tetto massimo). È favorevole all’abolizione di questa limitazione?
+
+Le seguenti, sono argomentazioni tipiche a favore del tema politico:
+Il limite dell'AVS pone le coppie sposate in una posizione di svantaggio rispetto alle persone single. Ciò è ingiusto, perché lo stato civile non dovrebbe determinare il livello di prosperità.
+Gli oppositori degli abolizionisti sostengono che le coppie sposate hanno altri privilegi pensionistici (vedi anche sotto), ma questi non compensano il danno causato dal tetto massimo. Ad esempio, il fatto che entrambi i coniugi siano assicurati, anche se solo uno di loro versa i contributi all'AVS, favorisce solo le coppie con un solo stipendio. Manca anche il vantaggio della pensione di reversibilità, che scatta solo al momento del decesso del partner.
+Le seguenti, sono argomentazioni tipiche contrarie al tema politico:
+La rimozione del limite grava sulle finanze dell'AVS e ne mette a repentaglio la stabilità a lungo termine.
+Il limite rappresenta un trattamento iniquo, ma non ingiusto, delle coppie sposate. Le coppie sposate beneficiano di ulteriori vantaggi nell'AVS e in altre assicurazioni sociali: ad esempio, entrambi i coniugi restano assicurati anche se solo uno versa i contributi AVS e solo le coppie sposate hanno diritto a una rendita di reversibilità.
+Le coppie sposate in genere condividono le spese fisse (ad esempio l'affitto). Pertanto hanno bisogno di meno soldi in totale rispetto alle persone single.
+
+Scriva un commento a favore il tema politico precedentemente menzionato. Ha a disposizione fino a 500 caratteri.",Weiblich
+it,P&C,FAVOR,10,"Le viene chiesto del seguente tema politico: Per le coppie di coniugi, l’ammontare della rendita è oggi limitato al 150% della rendita AVS individuale massima (tetto massimo). È favorevole all’abolizione di questa limitazione?
+
+Le seguenti, sono argomentazioni tipiche a favore del tema politico:
+Il limite dell'AVS pone le coppie sposate in una posizione di svantaggio rispetto alle persone single. Ciò è ingiusto, perché lo stato civile non dovrebbe determinare il livello di prosperità.
+Gli oppositori degli abolizionisti sostengono che le coppie sposate hanno altri privilegi pensionistici (vedi anche sotto), ma questi non compensano il danno causato dal tetto massimo. Ad esempio, il fatto che entrambi i coniugi siano assicurati, anche se solo uno di loro versa i contributi all'AVS, favorisce solo le coppie con un solo stipendio. Manca anche il vantaggio della pensione di reversibilità, che scatta solo al momento del decesso del partner.
+Le seguenti, sono argomentazioni tipiche contrarie al tema politico:
+La rimozione del limite grava sulle finanze dell'AVS e ne mette a repentaglio la stabilità a lungo termine.
+Il limite rappresenta un trattamento iniquo, ma non ingiusto, delle coppie sposate. Le coppie sposate beneficiano di ulteriori vantaggi nell'AVS e in altre assicurazioni sociali: ad esempio, entrambi i coniugi restano assicurati anche se solo uno versa i contributi AVS e solo le coppie sposate hanno diritto a una rendita di reversibilità.
+Le coppie sposate in genere condividono le spese fisse (ad esempio l'affitto). Pertanto hanno bisogno di meno soldi in totale rispetto alle persone single.
+
+Scriva un commento a favore il tema politico precedentemente menzionato. Ha a disposizione fino a 500 caratteri.",none
+it,SD + P&C,AGAINST,37,"Lei appartiene al seguente gruppo sociodemografico: genere - femminile.
+
+Le viene chiesto del seguente tema politico: È favorevole a una maggiore limitazione del potere del Consiglio federale di imporre restrizioni alla vita privata ed economica in caso di future pandemie?
+
+Le seguenti, sono argomentazioni tipiche a favore del tema politico:
+Nella legge sulle epidemie è necessario limitare il potere del Consiglio federale per tutelare i diritti del Popolo, dei Cantoni e del Parlamento. In caso di emergenza, il Consiglio federale deve e può intervenire, ma il Parlamento deve essere convocato. senza indugio. Questo ha davvero una leadership di responsabilità che è legittimata dal popolo.
+La mancanza di coinvolgimento legale del Parlamento ha un effetto negativo sulla partecipazione della società civile.
+La mancanza di un dibattito politico più ampio prima della decisione ostacola la fiducia nelle istituzioni statali. Senza fiducia, la volontà della popolazione di attuare le misure è compromessa.
+Le seguenti, sono argomentazioni tipiche contrarie al tema politico:
+In caso di pandemia, il Consiglio federale è nella posizione ideale per raccogliere rapidamente le conoscenze specialistiche pertinenti e adottare le misure necessarie in tutta la Svizzera. In questo modo si garantisce che le misure siano conformi agli standard scientifici più recenti ed si evita una moltiplicazione delle misure cantonali volte a garantire l'efficacia. variabile. Per un'efficace tutela della salute pubblica, la competenza decisionale prevista dal LEp è quindi giustificata.
+Il Consiglio federale è consapevole della responsabilità che gli viene conferita dalla legge sulle epidemie. Prende sempre decisioni sul controllo del virus tenendo conto dell'impatto sulla società. e l'economia.
+La necessità di agire per limitare le possibilità del Consiglio federale è debole. Il Consiglio federale prevede di sottoporre al Parlamento, alla fine del 2023, un progetto di revisione della LEp, che terrà conto delle conclusioni della valutazione della gestione dell'epidemia di Covid-19 e del ruolo e delle competenze del Parlamento e del Consiglio federale. A questo proposito è opportuno valutare anche se e in che modo il Parlamento possa essere coinvolto. adeguatamente riflessa nelle decisioni del Consiglio federale.
+
+
+Scriva un commento contro il tema politico precedentemente menzionato. Ha a disposizione fino a 500 caratteri.",Weiblich
+it,P&C,AGAINST,37,"Le viene chiesto del seguente tema politico: È favorevole a una maggiore limitazione del potere del Consiglio federale di imporre restrizioni alla vita privata ed economica in caso di future pandemie?
+
+Le seguenti, sono argomentazioni tipiche a favore del tema politico:
+Nella legge sulle epidemie è necessario limitare il potere del Consiglio federale per tutelare i diritti del Popolo, dei Cantoni e del Parlamento. In caso di emergenza, il Consiglio federale deve e può intervenire, ma il Parlamento deve essere convocato. senza indugio. Questo ha davvero una leadership di responsabilità che è legittimata dal popolo.
+La mancanza di coinvolgimento legale del Parlamento ha un effetto negativo sulla partecipazione della società civile.
+La mancanza di un dibattito politico più ampio prima della decisione ostacola la fiducia nelle istituzioni statali. Senza fiducia, la volontà della popolazione di attuare le misure è compromessa.
+Le seguenti, sono argomentazioni tipiche contrarie al tema politico:
+In caso di pandemia, il Consiglio federale è nella posizione ideale per raccogliere rapidamente le conoscenze specialistiche pertinenti e adottare le misure necessarie in tutta la Svizzera. In questo modo si garantisce che le misure siano conformi agli standard scientifici più recenti ed si evita una moltiplicazione delle misure cantonali volte a garantire l'efficacia. variabile. Per un'efficace tutela della salute pubblica, la competenza decisionale prevista dal LEp è quindi giustificata.
+Il Consiglio federale è consapevole della responsabilità che gli viene conferita dalla legge sulle epidemie. Prende sempre decisioni sul controllo del virus tenendo conto dell'impatto sulla società. e l'economia.
+La necessità di agire per limitare le possibilità del Consiglio federale è debole. Il Consiglio federale prevede di sottoporre al Parlamento, alla fine del 2023, un progetto di revisione della LEp, che terrà conto delle conclusioni della valutazione della gestione dell'epidemia di Covid-19 e del ruolo e delle competenze del Parlamento e del Consiglio federale. A questo proposito è opportuno valutare anche se e in che modo il Parlamento possa essere coinvolto. adeguatamente riflessa nelle decisioni del Consiglio federale.
+
+
+Scriva un commento contro il tema politico precedentemente menzionato. Ha a disposizione fino a 500 caratteri.",none
+it,SD + Ex + P&C,FAVOR,10,"Lei appartiene al seguente gruppo sociodemografico: genere - femminile.
+
+Le viene chiesto del seguente tema politico: Per le coppie di coniugi, l’ammontare della rendita è oggi limitato al 150% della rendita AVS individuale massima (tetto massimo). È favorevole all’abolizione di questa limitazione?
+
+La seguente é una spiegazione del tema politico:
+
+ L'AVS è il primo pilastro della previdenza per la vecchiaia. Il primo pilastro ha lo scopo di garantire ai pensionati un reddito sufficiente a coprire i loro bisogni fondamentali dopo il pensionamento. Attualmente, la pensione di vecchiaia minima per una persona single ammonta a 1.225 franchi al mese; la pensione massima ammonta a 2450 franchi.
+Per le coppie, la legge AVS stabilisce che la somma delle rendite individuali non deve superare i 3.675 franchi. Ciò corrisponde al 150% della pensione individuale massima (2450 franchi). In linea di principio, le pensioni di coppia vengono versate separatamente. Se le rispettive pensioni individuali di una coppia superano l'importo di 3.675 franchi, le pensioni vengono ridotte. In altre parole, le coppie ricevono una pensione inferiore rispetto alle persone single se la somma delle loro pensioni individuali supera i 3.675 franchi.
+
+Le seguenti, sono argomentazioni tipiche a favore del tema politico:
+Il limite dell'AVS pone le coppie sposate in una posizione di svantaggio rispetto alle persone single. Ciò è ingiusto, perché lo stato civile non dovrebbe determinare il livello di prosperità.
+Gli oppositori degli abolizionisti sostengono che le coppie sposate hanno altri privilegi pensionistici (vedi anche sotto), ma questi non compensano il danno causato dal tetto massimo. Ad esempio, il fatto che entrambi i coniugi siano assicurati, anche se solo uno di loro versa i contributi all'AVS, favorisce solo le coppie con un solo stipendio. Manca anche il vantaggio della pensione di reversibilità, che scatta solo al momento del decesso del partner.
+Le seguenti, sono argomentazioni tipiche contrarie al tema politico:
+La rimozione del limite grava sulle finanze dell'AVS e ne mette a repentaglio la stabilità a lungo termine.
+Il limite rappresenta un trattamento iniquo, ma non ingiusto, delle coppie sposate. Le coppie sposate beneficiano di ulteriori vantaggi nell'AVS e in altre assicurazioni sociali: ad esempio, entrambi i coniugi restano assicurati anche se solo uno versa i contributi AVS e solo le coppie sposate hanno diritto a una rendita di reversibilità.
+Le coppie sposate in genere condividono le spese fisse (ad esempio l'affitto). Pertanto hanno bisogno di meno soldi in totale rispetto alle persone single.
+
+Scriva un commento a favore il tema politico precedentemente menzionato. Ha a disposizione fino a 500 caratteri.",Weiblich
+it,Ex + P&C,FAVOR,10,"Le viene chiesto del seguente tema politico: Per le coppie di coniugi, l’ammontare della rendita è oggi limitato al 150% della rendita AVS individuale massima (tetto massimo). È favorevole all’abolizione di questa limitazione?
+
+La seguente é una spiegazione del tema politico:
+
+ L'AVS è il primo pilastro della previdenza per la vecchiaia. Il primo pilastro ha lo scopo di garantire ai pensionati un reddito sufficiente a coprire i loro bisogni fondamentali dopo il pensionamento. Attualmente, la pensione di vecchiaia minima per una persona single ammonta a 1.225 franchi al mese; la pensione massima ammonta a 2450 franchi.
+Per le coppie, la legge AVS stabilisce che la somma delle rendite individuali non deve superare i 3.675 franchi. Ciò corrisponde al 150% della pensione individuale massima (2450 franchi). In linea di principio, le pensioni di coppia vengono versate separatamente. Se le rispettive pensioni individuali di una coppia superano l'importo di 3.675 franchi, le pensioni vengono ridotte. In altre parole, le coppie ricevono una pensione inferiore rispetto alle persone single se la somma delle loro pensioni individuali supera i 3.675 franchi.
+
+Le seguenti, sono argomentazioni tipiche a favore del tema politico:
+Il limite dell'AVS pone le coppie sposate in una posizione di svantaggio rispetto alle persone single. Ciò è ingiusto, perché lo stato civile non dovrebbe determinare il livello di prosperità.
+Gli oppositori degli abolizionisti sostengono che le coppie sposate hanno altri privilegi pensionistici (vedi anche sotto), ma questi non compensano il danno causato dal tetto massimo. Ad esempio, il fatto che entrambi i coniugi siano assicurati, anche se solo uno di loro versa i contributi all'AVS, favorisce solo le coppie con un solo stipendio. Manca anche il vantaggio della pensione di reversibilità, che scatta solo al momento del decesso del partner.
+Le seguenti, sono argomentazioni tipiche contrarie al tema politico:
+La rimozione del limite grava sulle finanze dell'AVS e ne mette a repentaglio la stabilità a lungo termine.
+Il limite rappresenta un trattamento iniquo, ma non ingiusto, delle coppie sposate. Le coppie sposate beneficiano di ulteriori vantaggi nell'AVS e in altre assicurazioni sociali: ad esempio, entrambi i coniugi restano assicurati anche se solo uno versa i contributi AVS e solo le coppie sposate hanno diritto a una rendita di reversibilità.
+Le coppie sposate in genere condividono le spese fisse (ad esempio l'affitto). Pertanto hanno bisogno di meno soldi in totale rispetto alle persone single.
+
+Scriva un commento a favore il tema politico precedentemente menzionato. Ha a disposizione fino a 500 caratteri.",none
+it,SD + Ex + P&C,AGAINST,37,"Lei appartiene al seguente gruppo sociodemografico: genere - femminile.
+
+Le viene chiesto del seguente tema politico: È favorevole a una maggiore limitazione del potere del Consiglio federale di imporre restrizioni alla vita privata ed economica in caso di future pandemie?
+
+La seguente é una spiegazione del tema politico:
+
+In situazioni di emergenza sanitaria come la pandemia di Covid-19, potrebbe essere necessario emanare misure valide per tutta la Svizzera al fine di proteggere la salute della popolazione. Considerato il contesto delle minacce in rapida evoluzione, le decisioni relative alle misure e alla loro attuazione devono poter essere prese rapidamente. I ritardi possono avere un impatto negativo sull'evoluzione della situazione epidemiologica (prolungamento, amplificazione, ecc.).
+Per garantire una capacità d'azione efficace, la legge sulle epidemie (LPAmb), approvata dal Parlamento e dal Popolo, prevede competenze decisionali specifiche per il Consiglio federale. Il Consiglio federale può quindi decidere autonomamente in merito a misure che comportano in particolare restrizioni alla vita privata ed economica.
+
+Le seguenti, sono argomentazioni tipiche a favore del tema politico:
+Nella legge sulle epidemie è necessario limitare il potere del Consiglio federale per tutelare i diritti del Popolo, dei Cantoni e del Parlamento. In caso di emergenza, il Consiglio federale deve e può intervenire, ma il Parlamento deve essere convocato. senza indugio. Questo ha davvero una leadership di responsabilità che è legittimata dal popolo.
+La mancanza di coinvolgimento legale del Parlamento ha un effetto negativo sulla partecipazione della società civile.
+La mancanza di un dibattito politico più ampio prima della decisione ostacola la fiducia nelle istituzioni statali. Senza fiducia, la volontà della popolazione di attuare le misure è compromessa.
+Le seguenti, sono argomentazioni tipiche contrarie al tema politico:
+In caso di pandemia, il Consiglio federale è nella posizione ideale per raccogliere rapidamente le conoscenze specialistiche pertinenti e adottare le misure necessarie in tutta la Svizzera. In questo modo si garantisce che le misure siano conformi agli standard scientifici più recenti ed si evita una moltiplicazione delle misure cantonali volte a garantire l'efficacia. variabile. Per un'efficace tutela della salute pubblica, la competenza decisionale prevista dal LEp è quindi giustificata.
+Il Consiglio federale è consapevole della responsabilità che gli viene conferita dalla legge sulle epidemie. Prende sempre decisioni sul controllo del virus tenendo conto dell'impatto sulla società. e l'economia.
+La necessità di agire per limitare le possibilità del Consiglio federale è debole. Il Consiglio federale prevede di sottoporre al Parlamento, alla fine del 2023, un progetto di revisione della LEp, che terrà conto delle conclusioni della valutazione della gestione dell'epidemia di Covid-19 e del ruolo e delle competenze del Parlamento e del Consiglio federale. A questo proposito è opportuno valutare anche se e in che modo il Parlamento possa essere coinvolto. adeguatamente riflessa nelle decisioni del Consiglio federale.
+
+
+Scriva un commento contro il tema politico precedentemente menzionato. Ha a disposizione fino a 500 caratteri.",Weiblich
+it,Ex + P&C,AGAINST,37,"Le viene chiesto del seguente tema politico: È favorevole a una maggiore limitazione del potere del Consiglio federale di imporre restrizioni alla vita privata ed economica in caso di future pandemie?
+
+La seguente é una spiegazione del tema politico:
+
+In situazioni di emergenza sanitaria come la pandemia di Covid-19, potrebbe essere necessario emanare misure valide per tutta la Svizzera al fine di proteggere la salute della popolazione. Considerato il contesto delle minacce in rapida evoluzione, le decisioni relative alle misure e alla loro attuazione devono poter essere prese rapidamente. I ritardi possono avere un impatto negativo sull'evoluzione della situazione epidemiologica (prolungamento, amplificazione, ecc.).
+Per garantire una capacità d'azione efficace, la legge sulle epidemie (LPAmb), approvata dal Parlamento e dal Popolo, prevede competenze decisionali specifiche per il Consiglio federale. Il Consiglio federale può quindi decidere autonomamente in merito a misure che comportano in particolare restrizioni alla vita privata ed economica.
+
+Le seguenti, sono argomentazioni tipiche a favore del tema politico:
+Nella legge sulle epidemie è necessario limitare il potere del Consiglio federale per tutelare i diritti del Popolo, dei Cantoni e del Parlamento. In caso di emergenza, il Consiglio federale deve e può intervenire, ma il Parlamento deve essere convocato. senza indugio. Questo ha davvero una leadership di responsabilità che è legittimata dal popolo.
+La mancanza di coinvolgimento legale del Parlamento ha un effetto negativo sulla partecipazione della società civile.
+La mancanza di un dibattito politico più ampio prima della decisione ostacola la fiducia nelle istituzioni statali. Senza fiducia, la volontà della popolazione di attuare le misure è compromessa.
+Le seguenti, sono argomentazioni tipiche contrarie al tema politico:
+In caso di pandemia, il Consiglio federale è nella posizione ideale per raccogliere rapidamente le conoscenze specialistiche pertinenti e adottare le misure necessarie in tutta la Svizzera. In questo modo si garantisce che le misure siano conformi agli standard scientifici più recenti ed si evita una moltiplicazione delle misure cantonali volte a garantire l'efficacia. variabile. Per un'efficace tutela della salute pubblica, la competenza decisionale prevista dal LEp è quindi giustificata.
+Il Consiglio federale è consapevole della responsabilità che gli viene conferita dalla legge sulle epidemie. Prende sempre decisioni sul controllo del virus tenendo conto dell'impatto sulla società. e l'economia.
+La necessità di agire per limitare le possibilità del Consiglio federale è debole. Il Consiglio federale prevede di sottoporre al Parlamento, alla fine del 2023, un progetto di revisione della LEp, che terrà conto delle conclusioni della valutazione della gestione dell'epidemia di Covid-19 e del ruolo e delle competenze del Parlamento e del Consiglio federale. A questo proposito è opportuno valutare anche se e in che modo il Parlamento possa essere coinvolto. adeguatamente riflessa nelle decisioni del Consiglio federale.
+
+
+Scriva un commento contro il tema politico precedentemente menzionato. Ha a disposizione fino a 500 caratteri.",none
+it,C + SD,FAVOR,10,"Lei é un politico svizzero che sta compilando un questionario sulle proprie convinzioni politiche per un app di consulenza al voto nel contesto di un'elezione federale.
+Lei appartiene al seguente gruppo sociodemografico: genere - femminile.
+
+Le viene chiesto del seguente tema politico: Per le coppie di coniugi, l’ammontare della rendita è oggi limitato al 150% della rendita AVS individuale massima (tetto massimo). È favorevole all’abolizione di questa limitazione?
+
+Scriva un commento a favore il tema politico precedentemente menzionato. Ha a disposizione fino a 500 caratteri.",Weiblich
+it,C,FAVOR,10,"Lei é un politico svizzero che sta compilando un questionario sulle proprie convinzioni politiche per un app di consulenza al voto nel contesto di un'elezione federale.
+
+
+Le viene chiesto del seguente tema politico: Per le coppie di coniugi, l’ammontare della rendita è oggi limitato al 150% della rendita AVS individuale massima (tetto massimo). È favorevole all’abolizione di questa limitazione?
+
+Scriva un commento a favore il tema politico precedentemente menzionato. Ha a disposizione fino a 500 caratteri.",none
+it,C + SD,AGAINST,37,"Lei é un politico svizzero che sta compilando un questionario sulle proprie convinzioni politiche per un app di consulenza al voto nel contesto di un'elezione federale.
+Lei appartiene al seguente gruppo sociodemografico: genere - femminile.
+
+Le viene chiesto del seguente tema politico: È favorevole a una maggiore limitazione del potere del Consiglio federale di imporre restrizioni alla vita privata ed economica in caso di future pandemie?
+
+Scriva un commento contro il tema politico precedentemente menzionato. Ha a disposizione fino a 500 caratteri.",Weiblich
+it,C,AGAINST,37,"Lei é un politico svizzero che sta compilando un questionario sulle proprie convinzioni politiche per un app di consulenza al voto nel contesto di un'elezione federale.
+
+
+Le viene chiesto del seguente tema politico: È favorevole a una maggiore limitazione del potere del Consiglio federale di imporre restrizioni alla vita privata ed economica in caso di future pandemie?
+
+Scriva un commento contro il tema politico precedentemente menzionato. Ha a disposizione fino a 500 caratteri.",none
+it,C + SD + Ex,FAVOR,10,"Lei é un politico svizzero che sta compilando un questionario sulle proprie convinzioni politiche per un app di consulenza al voto nel contesto di un'elezione federale.
+Lei appartiene al seguente gruppo sociodemografico: genere - femminile.
+
+Le viene chiesto del seguente tema politico: Per le coppie di coniugi, l’ammontare della rendita è oggi limitato al 150% della rendita AVS individuale massima (tetto massimo). È favorevole all’abolizione di questa limitazione?
+
+La seguente é una spiegazione del tema politico:
+
+ L'AVS è il primo pilastro della previdenza per la vecchiaia. Il primo pilastro ha lo scopo di garantire ai pensionati un reddito sufficiente a coprire i loro bisogni fondamentali dopo il pensionamento. Attualmente, la pensione di vecchiaia minima per una persona single ammonta a 1.225 franchi al mese; la pensione massima ammonta a 2450 franchi.
+Per le coppie, la legge AVS stabilisce che la somma delle rendite individuali non deve superare i 3.675 franchi. Ciò corrisponde al 150% della pensione individuale massima (2450 franchi). In linea di principio, le pensioni di coppia vengono versate separatamente. Se le rispettive pensioni individuali di una coppia superano l'importo di 3.675 franchi, le pensioni vengono ridotte. In altre parole, le coppie ricevono una pensione inferiore rispetto alle persone single se la somma delle loro pensioni individuali supera i 3.675 franchi.
+
+Scriva un commento a favore il tema politico precedentemente menzionato. Ha a disposizione fino a 500 caratteri.",Weiblich
+it,C + Ex,FAVOR,10,"Lei é un politico svizzero che sta compilando un questionario sulle proprie convinzioni politiche per un app di consulenza al voto nel contesto di un'elezione federale.
+
+
+Le viene chiesto del seguente tema politico: Per le coppie di coniugi, l’ammontare della rendita è oggi limitato al 150% della rendita AVS individuale massima (tetto massimo). È favorevole all’abolizione di questa limitazione?
+
+La seguente é una spiegazione del tema politico:
+
+ L'AVS è il primo pilastro della previdenza per la vecchiaia. Il primo pilastro ha lo scopo di garantire ai pensionati un reddito sufficiente a coprire i loro bisogni fondamentali dopo il pensionamento. Attualmente, la pensione di vecchiaia minima per una persona single ammonta a 1.225 franchi al mese; la pensione massima ammonta a 2450 franchi.
+Per le coppie, la legge AVS stabilisce che la somma delle rendite individuali non deve superare i 3.675 franchi. Ciò corrisponde al 150% della pensione individuale massima (2450 franchi). In linea di principio, le pensioni di coppia vengono versate separatamente. Se le rispettive pensioni individuali di una coppia superano l'importo di 3.675 franchi, le pensioni vengono ridotte. In altre parole, le coppie ricevono una pensione inferiore rispetto alle persone single se la somma delle loro pensioni individuali supera i 3.675 franchi.
+
+Scriva un commento a favore il tema politico precedentemente menzionato. Ha a disposizione fino a 500 caratteri.",none
+it,C + SD + Ex,AGAINST,37,"Lei é un politico svizzero che sta compilando un questionario sulle proprie convinzioni politiche per un app di consulenza al voto nel contesto di un'elezione federale.
+Lei appartiene al seguente gruppo sociodemografico: genere - femminile.
+
+Le viene chiesto del seguente tema politico: È favorevole a una maggiore limitazione del potere del Consiglio federale di imporre restrizioni alla vita privata ed economica in caso di future pandemie?
+
+La seguente é una spiegazione del tema politico:
+
+In situazioni di emergenza sanitaria come la pandemia di Covid-19, potrebbe essere necessario emanare misure valide per tutta la Svizzera al fine di proteggere la salute della popolazione. Considerato il contesto delle minacce in rapida evoluzione, le decisioni relative alle misure e alla loro attuazione devono poter essere prese rapidamente. I ritardi possono avere un impatto negativo sull'evoluzione della situazione epidemiologica (prolungamento, amplificazione, ecc.).
+Per garantire una capacità d'azione efficace, la legge sulle epidemie (LPAmb), approvata dal Parlamento e dal Popolo, prevede competenze decisionali specifiche per il Consiglio federale. Il Consiglio federale può quindi decidere autonomamente in merito a misure che comportano in particolare restrizioni alla vita privata ed economica.
+
+Scriva un commento contro il tema politico precedentemente menzionato. Ha a disposizione fino a 500 caratteri.",Weiblich
+it,C + Ex,AGAINST,37,"Lei é un politico svizzero che sta compilando un questionario sulle proprie convinzioni politiche per un app di consulenza al voto nel contesto di un'elezione federale.
+
+
+Le viene chiesto del seguente tema politico: È favorevole a una maggiore limitazione del potere del Consiglio federale di imporre restrizioni alla vita privata ed economica in caso di future pandemie?
+
+La seguente é una spiegazione del tema politico:
+
+In situazioni di emergenza sanitaria come la pandemia di Covid-19, potrebbe essere necessario emanare misure valide per tutta la Svizzera al fine di proteggere la salute della popolazione. Considerato il contesto delle minacce in rapida evoluzione, le decisioni relative alle misure e alla loro attuazione devono poter essere prese rapidamente. I ritardi possono avere un impatto negativo sull'evoluzione della situazione epidemiologica (prolungamento, amplificazione, ecc.).
+Per garantire una capacità d'azione efficace, la legge sulle epidemie (LPAmb), approvata dal Parlamento e dal Popolo, prevede competenze decisionali specifiche per il Consiglio federale. Il Consiglio federale può quindi decidere autonomamente in merito a misure che comportano in particolare restrizioni alla vita privata ed economica.
+
+Scriva un commento contro il tema politico precedentemente menzionato. Ha a disposizione fino a 500 caratteri.",none
+it,C + SD + P&C,FAVOR,10,"Lei é un politico svizzero che sta compilando un questionario sulle proprie convinzioni politiche per un app di consulenza al voto nel contesto di un'elezione federale.
+Lei appartiene al seguente gruppo sociodemografico: genere - femminile.
+
+Le viene chiesto del seguente tema politico: Per le coppie di coniugi, l’ammontare della rendita è oggi limitato al 150% della rendita AVS individuale massima (tetto massimo). È favorevole all’abolizione di questa limitazione?
+
+Le seguenti, sono argomentazioni tipiche a favore del tema politico:
+Il limite dell'AVS pone le coppie sposate in una posizione di svantaggio rispetto alle persone single. Ciò è ingiusto, perché lo stato civile non dovrebbe determinare il livello di prosperità.
+Gli oppositori degli abolizionisti sostengono che le coppie sposate hanno altri privilegi pensionistici (vedi anche sotto), ma questi non compensano il danno causato dal tetto massimo. Ad esempio, il fatto che entrambi i coniugi siano assicurati, anche se solo uno di loro versa i contributi all'AVS, favorisce solo le coppie con un solo stipendio. Manca anche il vantaggio della pensione di reversibilità, che scatta solo al momento del decesso del partner.
+Le seguenti, sono argomentazioni tipiche contrarie al tema politico:
+La rimozione del limite grava sulle finanze dell'AVS e ne mette a repentaglio la stabilità a lungo termine.
+Il limite rappresenta un trattamento iniquo, ma non ingiusto, delle coppie sposate. Le coppie sposate beneficiano di ulteriori vantaggi nell'AVS e in altre assicurazioni sociali: ad esempio, entrambi i coniugi restano assicurati anche se solo uno versa i contributi AVS e solo le coppie sposate hanno diritto a una rendita di reversibilità.
+Le coppie sposate in genere condividono le spese fisse (ad esempio l'affitto). Pertanto hanno bisogno di meno soldi in totale rispetto alle persone single.
+
+Scriva un commento a favore il tema politico precedentemente menzionato. Ha a disposizione fino a 500 caratteri.",Weiblich
+it,C + P&C,FAVOR,10,"Lei é un politico svizzero che sta compilando un questionario sulle proprie convinzioni politiche per un app di consulenza al voto nel contesto di un'elezione federale.
+
+
+Le viene chiesto del seguente tema politico: Per le coppie di coniugi, l’ammontare della rendita è oggi limitato al 150% della rendita AVS individuale massima (tetto massimo). È favorevole all’abolizione di questa limitazione?
+
+Le seguenti, sono argomentazioni tipiche a favore del tema politico:
+Il limite dell'AVS pone le coppie sposate in una posizione di svantaggio rispetto alle persone single. Ciò è ingiusto, perché lo stato civile non dovrebbe determinare il livello di prosperità.
+Gli oppositori degli abolizionisti sostengono che le coppie sposate hanno altri privilegi pensionistici (vedi anche sotto), ma questi non compensano il danno causato dal tetto massimo. Ad esempio, il fatto che entrambi i coniugi siano assicurati, anche se solo uno di loro versa i contributi all'AVS, favorisce solo le coppie con un solo stipendio. Manca anche il vantaggio della pensione di reversibilità, che scatta solo al momento del decesso del partner.
+Le seguenti, sono argomentazioni tipiche contrarie al tema politico:
+La rimozione del limite grava sulle finanze dell'AVS e ne mette a repentaglio la stabilità a lungo termine.
+Il limite rappresenta un trattamento iniquo, ma non ingiusto, delle coppie sposate. Le coppie sposate beneficiano di ulteriori vantaggi nell'AVS e in altre assicurazioni sociali: ad esempio, entrambi i coniugi restano assicurati anche se solo uno versa i contributi AVS e solo le coppie sposate hanno diritto a una rendita di reversibilità.
+Le coppie sposate in genere condividono le spese fisse (ad esempio l'affitto). Pertanto hanno bisogno di meno soldi in totale rispetto alle persone single.
+
+Scriva un commento a favore il tema politico precedentemente menzionato. Ha a disposizione fino a 500 caratteri.",none
+it,C + SD + P&C,AGAINST,37,"Lei é un politico svizzero che sta compilando un questionario sulle proprie convinzioni politiche per un app di consulenza al voto nel contesto di un'elezione federale.
+Lei appartiene al seguente gruppo sociodemografico: genere - femminile.
+
+Le viene chiesto del seguente tema politico: È favorevole a una maggiore limitazione del potere del Consiglio federale di imporre restrizioni alla vita privata ed economica in caso di future pandemie?
+
+Le seguenti, sono argomentazioni tipiche a favore del tema politico:
+Nella legge sulle epidemie è necessario limitare il potere del Consiglio federale per tutelare i diritti del Popolo, dei Cantoni e del Parlamento. In caso di emergenza, il Consiglio federale deve e può intervenire, ma il Parlamento deve essere convocato. senza indugio. Questo ha davvero una leadership di responsabilità che è legittimata dal popolo.
+La mancanza di coinvolgimento legale del Parlamento ha un effetto negativo sulla partecipazione della società civile.
+La mancanza di un dibattito politico più ampio prima della decisione ostacola la fiducia nelle istituzioni statali. Senza fiducia, la volontà della popolazione di attuare le misure è compromessa.
+Le seguenti, sono argomentazioni tipiche contrarie al tema politico:
+In caso di pandemia, il Consiglio federale è nella posizione ideale per raccogliere rapidamente le conoscenze specialistiche pertinenti e adottare le misure necessarie in tutta la Svizzera. In questo modo si garantisce che le misure siano conformi agli standard scientifici più recenti ed si evita una moltiplicazione delle misure cantonali volte a garantire l'efficacia. variabile. Per un'efficace tutela della salute pubblica, la competenza decisionale prevista dal LEp è quindi giustificata.
+Il Consiglio federale è consapevole della responsabilità che gli viene conferita dalla legge sulle epidemie. Prende sempre decisioni sul controllo del virus tenendo conto dell'impatto sulla società. e l'economia.
+La necessità di agire per limitare le possibilità del Consiglio federale è debole. Il Consiglio federale prevede di sottoporre al Parlamento, alla fine del 2023, un progetto di revisione della LEp, che terrà conto delle conclusioni della valutazione della gestione dell'epidemia di Covid-19 e del ruolo e delle competenze del Parlamento e del Consiglio federale. A questo proposito è opportuno valutare anche se e in che modo il Parlamento possa essere coinvolto. adeguatamente riflessa nelle decisioni del Consiglio federale.
+
+
+Scriva un commento contro il tema politico precedentemente menzionato. Ha a disposizione fino a 500 caratteri.",Weiblich
+it,C + P&C,AGAINST,37,"Lei é un politico svizzero che sta compilando un questionario sulle proprie convinzioni politiche per un app di consulenza al voto nel contesto di un'elezione federale.
+
+
+Le viene chiesto del seguente tema politico: È favorevole a una maggiore limitazione del potere del Consiglio federale di imporre restrizioni alla vita privata ed economica in caso di future pandemie?
+
+Le seguenti, sono argomentazioni tipiche a favore del tema politico:
+Nella legge sulle epidemie è necessario limitare il potere del Consiglio federale per tutelare i diritti del Popolo, dei Cantoni e del Parlamento. In caso di emergenza, il Consiglio federale deve e può intervenire, ma il Parlamento deve essere convocato. senza indugio. Questo ha davvero una leadership di responsabilità che è legittimata dal popolo.
+La mancanza di coinvolgimento legale del Parlamento ha un effetto negativo sulla partecipazione della società civile.
+La mancanza di un dibattito politico più ampio prima della decisione ostacola la fiducia nelle istituzioni statali. Senza fiducia, la volontà della popolazione di attuare le misure è compromessa.
+Le seguenti, sono argomentazioni tipiche contrarie al tema politico:
+In caso di pandemia, il Consiglio federale è nella posizione ideale per raccogliere rapidamente le conoscenze specialistiche pertinenti e adottare le misure necessarie in tutta la Svizzera. In questo modo si garantisce che le misure siano conformi agli standard scientifici più recenti ed si evita una moltiplicazione delle misure cantonali volte a garantire l'efficacia. variabile. Per un'efficace tutela della salute pubblica, la competenza decisionale prevista dal LEp è quindi giustificata.
+Il Consiglio federale è consapevole della responsabilità che gli viene conferita dalla legge sulle epidemie. Prende sempre decisioni sul controllo del virus tenendo conto dell'impatto sulla società. e l'economia.
+La necessità di agire per limitare le possibilità del Consiglio federale è debole. Il Consiglio federale prevede di sottoporre al Parlamento, alla fine del 2023, un progetto di revisione della LEp, che terrà conto delle conclusioni della valutazione della gestione dell'epidemia di Covid-19 e del ruolo e delle competenze del Parlamento e del Consiglio federale. A questo proposito è opportuno valutare anche se e in che modo il Parlamento possa essere coinvolto. adeguatamente riflessa nelle decisioni del Consiglio federale.
+
+
+Scriva un commento contro il tema politico precedentemente menzionato. Ha a disposizione fino a 500 caratteri.",none
+it,C + SD + Ex + P&C,FAVOR,10,"Lei é un politico svizzero che sta compilando un questionario sulle proprie convinzioni politiche per un app di consulenza al voto nel contesto di un'elezione federale.
+Lei appartiene al seguente gruppo sociodemografico: genere - femminile.
+
+Le viene chiesto del seguente tema politico: Per le coppie di coniugi, l’ammontare della rendita è oggi limitato al 150% della rendita AVS individuale massima (tetto massimo). È favorevole all’abolizione di questa limitazione?
+
+La seguente é una spiegazione del tema politico:
+
+ L'AVS è il primo pilastro della previdenza per la vecchiaia. Il primo pilastro ha lo scopo di garantire ai pensionati un reddito sufficiente a coprire i loro bisogni fondamentali dopo il pensionamento. Attualmente, la pensione di vecchiaia minima per una persona single ammonta a 1.225 franchi al mese; la pensione massima ammonta a 2450 franchi.
+Per le coppie, la legge AVS stabilisce che la somma delle rendite individuali non deve superare i 3.675 franchi. Ciò corrisponde al 150% della pensione individuale massima (2450 franchi). In linea di principio, le pensioni di coppia vengono versate separatamente. Se le rispettive pensioni individuali di una coppia superano l'importo di 3.675 franchi, le pensioni vengono ridotte. In altre parole, le coppie ricevono una pensione inferiore rispetto alle persone single se la somma delle loro pensioni individuali supera i 3.675 franchi.
+
+Le seguenti, sono argomentazioni tipiche a favore del tema politico:
+Il limite dell'AVS pone le coppie sposate in una posizione di svantaggio rispetto alle persone single. Ciò è ingiusto, perché lo stato civile non dovrebbe determinare il livello di prosperità.
+Gli oppositori degli abolizionisti sostengono che le coppie sposate hanno altri privilegi pensionistici (vedi anche sotto), ma questi non compensano il danno causato dal tetto massimo. Ad esempio, il fatto che entrambi i coniugi siano assicurati, anche se solo uno di loro versa i contributi all'AVS, favorisce solo le coppie con un solo stipendio. Manca anche il vantaggio della pensione di reversibilità, che scatta solo al momento del decesso del partner.
+Le seguenti, sono argomentazioni tipiche contrarie al tema politico:
+La rimozione del limite grava sulle finanze dell'AVS e ne mette a repentaglio la stabilità a lungo termine.
+Il limite rappresenta un trattamento iniquo, ma non ingiusto, delle coppie sposate. Le coppie sposate beneficiano di ulteriori vantaggi nell'AVS e in altre assicurazioni sociali: ad esempio, entrambi i coniugi restano assicurati anche se solo uno versa i contributi AVS e solo le coppie sposate hanno diritto a una rendita di reversibilità.
+Le coppie sposate in genere condividono le spese fisse (ad esempio l'affitto). Pertanto hanno bisogno di meno soldi in totale rispetto alle persone single.
+
+Scriva un commento a favore il tema politico precedentemente menzionato. Ha a disposizione fino a 500 caratteri.",Weiblich
+it,C + Ex + P&C,FAVOR,10,"Lei é un politico svizzero che sta compilando un questionario sulle proprie convinzioni politiche per un app di consulenza al voto nel contesto di un'elezione federale.
+
+
+Le viene chiesto del seguente tema politico: Per le coppie di coniugi, l’ammontare della rendita è oggi limitato al 150% della rendita AVS individuale massima (tetto massimo). È favorevole all’abolizione di questa limitazione?
+
+La seguente é una spiegazione del tema politico:
+
+ L'AVS è il primo pilastro della previdenza per la vecchiaia. Il primo pilastro ha lo scopo di garantire ai pensionati un reddito sufficiente a coprire i loro bisogni fondamentali dopo il pensionamento. Attualmente, la pensione di vecchiaia minima per una persona single ammonta a 1.225 franchi al mese; la pensione massima ammonta a 2450 franchi.
+Per le coppie, la legge AVS stabilisce che la somma delle rendite individuali non deve superare i 3.675 franchi. Ciò corrisponde al 150% della pensione individuale massima (2450 franchi). In linea di principio, le pensioni di coppia vengono versate separatamente. Se le rispettive pensioni individuali di una coppia superano l'importo di 3.675 franchi, le pensioni vengono ridotte. In altre parole, le coppie ricevono una pensione inferiore rispetto alle persone single se la somma delle loro pensioni individuali supera i 3.675 franchi.
+
+Le seguenti, sono argomentazioni tipiche a favore del tema politico:
+Il limite dell'AVS pone le coppie sposate in una posizione di svantaggio rispetto alle persone single. Ciò è ingiusto, perché lo stato civile non dovrebbe determinare il livello di prosperità.
+Gli oppositori degli abolizionisti sostengono che le coppie sposate hanno altri privilegi pensionistici (vedi anche sotto), ma questi non compensano il danno causato dal tetto massimo. Ad esempio, il fatto che entrambi i coniugi siano assicurati, anche se solo uno di loro versa i contributi all'AVS, favorisce solo le coppie con un solo stipendio. Manca anche il vantaggio della pensione di reversibilità, che scatta solo al momento del decesso del partner.
+Le seguenti, sono argomentazioni tipiche contrarie al tema politico:
+La rimozione del limite grava sulle finanze dell'AVS e ne mette a repentaglio la stabilità a lungo termine.
+Il limite rappresenta un trattamento iniquo, ma non ingiusto, delle coppie sposate. Le coppie sposate beneficiano di ulteriori vantaggi nell'AVS e in altre assicurazioni sociali: ad esempio, entrambi i coniugi restano assicurati anche se solo uno versa i contributi AVS e solo le coppie sposate hanno diritto a una rendita di reversibilità.
+Le coppie sposate in genere condividono le spese fisse (ad esempio l'affitto). Pertanto hanno bisogno di meno soldi in totale rispetto alle persone single.
+
+Scriva un commento a favore il tema politico precedentemente menzionato. Ha a disposizione fino a 500 caratteri.",none
+it,C + SD + Ex + P&C,AGAINST,37,"Lei é un politico svizzero che sta compilando un questionario sulle proprie convinzioni politiche per un app di consulenza al voto nel contesto di un'elezione federale.
+Lei appartiene al seguente gruppo sociodemografico: genere - femminile.
+
+Le viene chiesto del seguente tema politico: È favorevole a una maggiore limitazione del potere del Consiglio federale di imporre restrizioni alla vita privata ed economica in caso di future pandemie?
+
+La seguente é una spiegazione del tema politico:
+
+In situazioni di emergenza sanitaria come la pandemia di Covid-19, potrebbe essere necessario emanare misure valide per tutta la Svizzera al fine di proteggere la salute della popolazione. Considerato il contesto delle minacce in rapida evoluzione, le decisioni relative alle misure e alla loro attuazione devono poter essere prese rapidamente. I ritardi possono avere un impatto negativo sull'evoluzione della situazione epidemiologica (prolungamento, amplificazione, ecc.).
+Per garantire una capacità d'azione efficace, la legge sulle epidemie (LPAmb), approvata dal Parlamento e dal Popolo, prevede competenze decisionali specifiche per il Consiglio federale. Il Consiglio federale può quindi decidere autonomamente in merito a misure che comportano in particolare restrizioni alla vita privata ed economica.
+
+Le seguenti, sono argomentazioni tipiche a favore del tema politico:
+Nella legge sulle epidemie è necessario limitare il potere del Consiglio federale per tutelare i diritti del Popolo, dei Cantoni e del Parlamento. In caso di emergenza, il Consiglio federale deve e può intervenire, ma il Parlamento deve essere convocato. senza indugio. Questo ha davvero una leadership di responsabilità che è legittimata dal popolo.
+La mancanza di coinvolgimento legale del Parlamento ha un effetto negativo sulla partecipazione della società civile.
+La mancanza di un dibattito politico più ampio prima della decisione ostacola la fiducia nelle istituzioni statali. Senza fiducia, la volontà della popolazione di attuare le misure è compromessa.
+Le seguenti, sono argomentazioni tipiche contrarie al tema politico:
+In caso di pandemia, il Consiglio federale è nella posizione ideale per raccogliere rapidamente le conoscenze specialistiche pertinenti e adottare le misure necessarie in tutta la Svizzera. In questo modo si garantisce che le misure siano conformi agli standard scientifici più recenti ed si evita una moltiplicazione delle misure cantonali volte a garantire l'efficacia. variabile. Per un'efficace tutela della salute pubblica, la competenza decisionale prevista dal LEp è quindi giustificata.
+Il Consiglio federale è consapevole della responsabilità che gli viene conferita dalla legge sulle epidemie. Prende sempre decisioni sul controllo del virus tenendo conto dell'impatto sulla società. e l'economia.
+La necessità di agire per limitare le possibilità del Consiglio federale è debole. Il Consiglio federale prevede di sottoporre al Parlamento, alla fine del 2023, un progetto di revisione della LEp, che terrà conto delle conclusioni della valutazione della gestione dell'epidemia di Covid-19 e del ruolo e delle competenze del Parlamento e del Consiglio federale. A questo proposito è opportuno valutare anche se e in che modo il Parlamento possa essere coinvolto. adeguatamente riflessa nelle decisioni del Consiglio federale.
+
+
+Scriva un commento contro il tema politico precedentemente menzionato. Ha a disposizione fino a 500 caratteri.",Weiblich
+it,C + Ex + P&C,AGAINST,37,"Lei é un politico svizzero che sta compilando un questionario sulle proprie convinzioni politiche per un app di consulenza al voto nel contesto di un'elezione federale.
+
+
+Le viene chiesto del seguente tema politico: È favorevole a una maggiore limitazione del potere del Consiglio federale di imporre restrizioni alla vita privata ed economica in caso di future pandemie?
+
+La seguente é una spiegazione del tema politico:
+
+In situazioni di emergenza sanitaria come la pandemia di Covid-19, potrebbe essere necessario emanare misure valide per tutta la Svizzera al fine di proteggere la salute della popolazione. Considerato il contesto delle minacce in rapida evoluzione, le decisioni relative alle misure e alla loro attuazione devono poter essere prese rapidamente. I ritardi possono avere un impatto negativo sull'evoluzione della situazione epidemiologica (prolungamento, amplificazione, ecc.).
+Per garantire una capacità d'azione efficace, la legge sulle epidemie (LPAmb), approvata dal Parlamento e dal Popolo, prevede competenze decisionali specifiche per il Consiglio federale. Il Consiglio federale può quindi decidere autonomamente in merito a misure che comportano in particolare restrizioni alla vita privata ed economica.
+
+Le seguenti, sono argomentazioni tipiche a favore del tema politico:
+Nella legge sulle epidemie è necessario limitare il potere del Consiglio federale per tutelare i diritti del Popolo, dei Cantoni e del Parlamento. In caso di emergenza, il Consiglio federale deve e può intervenire, ma il Parlamento deve essere convocato. senza indugio. Questo ha davvero una leadership di responsabilità che è legittimata dal popolo.
+La mancanza di coinvolgimento legale del Parlamento ha un effetto negativo sulla partecipazione della società civile.
+La mancanza di un dibattito politico più ampio prima della decisione ostacola la fiducia nelle istituzioni statali. Senza fiducia, la volontà della popolazione di attuare le misure è compromessa.
+Le seguenti, sono argomentazioni tipiche contrarie al tema politico:
+In caso di pandemia, il Consiglio federale è nella posizione ideale per raccogliere rapidamente le conoscenze specialistiche pertinenti e adottare le misure necessarie in tutta la Svizzera. In questo modo si garantisce che le misure siano conformi agli standard scientifici più recenti ed si evita una moltiplicazione delle misure cantonali volte a garantire l'efficacia. variabile. Per un'efficace tutela della salute pubblica, la competenza decisionale prevista dal LEp è quindi giustificata.
+Il Consiglio federale è consapevole della responsabilità che gli viene conferita dalla legge sulle epidemie. Prende sempre decisioni sul controllo del virus tenendo conto dell'impatto sulla società. e l'economia.
+La necessità di agire per limitare le possibilità del Consiglio federale è debole. Il Consiglio federale prevede di sottoporre al Parlamento, alla fine del 2023, un progetto di revisione della LEp, che terrà conto delle conclusioni della valutazione della gestione dell'epidemia di Covid-19 e del ruolo e delle competenze del Parlamento e del Consiglio federale. A questo proposito è opportuno valutare anche se e in che modo il Parlamento possa essere coinvolto. adeguatamente riflessa nelle decisioni del Consiglio federale.
+
+
+Scriva un commento contro il tema politico precedentemente menzionato. Ha a disposizione fino a 500 caratteri.",none

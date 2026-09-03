@@ -1,0 +1,42 @@
+/* Styling for showcase.py. Wired up through marimo.App(css_file=...).
+   The colors derive from the text color, so the page survives a dark theme. */
+
+.markdown {
+  line-height: 1.62;
+}
+
+.markdown :is(h1, h2, h3) {
+  font-family: ui-serif, Georgia, "Times New Roman", serif;
+  letter-spacing: -0.01em;
+}
+
+.markdown h1 {
+  font-size: 2.15rem;
+  margin-bottom: 0.35rem;
+}
+
+/* Every section starts with a rule across the column. */
+.markdown h2 {
+  font-size: 1.5rem;
+  margin-top: 2.4rem;
+  padding-top: 1.3rem;
+  border-top: 1px solid color-mix(in srgb, currentColor 18%, transparent);
+}
+
+.markdown a {
+  text-decoration-thickness: 1px;
+  text-underline-offset: 2px;
+}
+
+.markdown code {
+  font-size: 0.9em;
+  padding: 0.1em 0.35em;
+  border-radius: 3px;
+  background: color-mix(in srgb, currentColor 8%, transparent);
+}
+
+/* Breathing room between the controls and the plots they drive. */
+marimo-cell {
+  padding-top: 0.35rem;
+  padding-bottom: 0.35rem;
+}

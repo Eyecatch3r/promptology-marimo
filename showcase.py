@@ -7,12 +7,17 @@
 import marimo
 
 __generated_with = "0.24.0"
-app = marimo.App(width="medium")
+app = marimo.App(
+    width="medium",
+    app_title="Promptology showcase",
+    css_file="custom.css",
+)
 
 
 @app.cell
 def _():
     import io
+    import pathlib
     import urllib.request
     from functools import cache
 
@@ -23,6 +28,32 @@ def _():
     REPO = "https://huggingface.co/datasets/mmmaurer/promptology-results/resolve/main/"
     METRICS = {"accuracy": "balanced accuracy", "f1": "F1"}
 
+    @alt.theme.register("promptology", enable=True)
+    def _chart_theme():
+        return {
+            "config": {
+                "font": "ui-sans-serif, system-ui, sans-serif",
+                "view": {"stroke": None},
+                "axis": {
+                    "labelFontSize": 12,
+                    "titleFontSize": 12,
+                    "titleFontWeight": "normal",
+                    "titleColor": "#5b6472",
+                    "labelColor": "#3d4653",
+                    "domainColor": "#c9d1d9",
+                    "tickColor": "#c9d1d9",
+                    "gridColor": "#eef1f4",
+                },
+                "title": {
+                    "fontSize": 15,
+                    "fontWeight": 600,
+                    "anchor": "start",
+                    "offset": 14,
+                    "color": "#1f2328",
+                },
+            }
+        }
+
     @cache
     def load(name, sep=","):
         raw = urllib.request.urlopen(REPO + name).read()
@@ -30,6 +61,16 @@ def _():
 
     def paper_figure(name):
         return mo.image(str(mo.notebook_location() / "public" / name))
+
+    @cache
+    def local(name):
+        """Read a file from public/. The location is a path locally, a URL online."""
+        target = str(mo.notebook_location() / "public" / name)
+        if target.startswith("http"):
+            raw = urllib.request.urlopen(target).read()
+        else:
+            raw = pathlib.Path(target).read_bytes()
+        return pl.read_csv(io.BytesIO(raw))
 
     def subset(frame, language, model=None, topic=None, stance=None):
         frame = frame.filter(pl.col("language") == language)
@@ -61,7 +102,18 @@ def _():
             )
         ).properties(width=520, height=24 * frame.height + 20)
 
-    return METRICS, alt, interval_chart, load, mo, paper_figure, pl, spread, subset
+    return (
+        METRICS,
+        alt,
+        interval_chart,
+        load,
+        local,
+        mo,
+        paper_figure,
+        pl,
+        spread,
+        subset,
+    )
 
 
 @app.cell
@@ -147,8 +199,154 @@ def _(ELEMENT_NAMES, elements, mo):
     condition = (
         " + ".join(n for n, on in zip(ELEMENT_NAMES, elements.value) if on) or "Default"
     )
-    mo.md(f"Selected condition: `{condition}`. The red point marks it in the plot.")
+    mo.md(f"Selected condition: `{condition}`. The red mark follows it below.")
     return (condition,)
+
+
+@app.cell
+def _(mo):
+    mo.md("""
+    ## The prompts
+
+    The three files in `prompts/` hold every prompt that the study sent to the models:
+    15,274 in German, 11,484 in French and 5,406 in Italian. Each prompt is built from
+    blocks, so the counts below show how often each element combination occurs.
+
+    The sociodemographic block draws on seven dimensions of the smartvote questionnaire.
+    Pick one to see its groups.
+    """)
+    return
+
+
+@app.cell
+def _(mo):
+    dimension = mo.ui.dropdown(
+        {
+            "all dimensions": None,
+            "political spectrum": "political_spectrum",
+            "education": "education",
+            "denomination": "denomination",
+            "civil status": "civil_status",
+            "age": "age",
+            "gender": "gender",
+            "residence": "residence",
+        },
+        value="political spectrum",
+    )
+    dimension
+    return (dimension,)
+
+
+@app.cell
+def _(alt, condition, language, local, pl, stance):
+    design = local("prompt_design.csv").filter(pl.col("language") == language.value)
+    if stance.value:
+        design = design.filter(pl.col("stance") == stance.value)
+
+    per_condition_counts = (
+        design.group_by("condition").len("prompts").sort("prompts", descending=True)
+    )
+
+    alt.Chart(per_condition_counts).mark_bar(height=14).encode(
+        y=alt.Y(
+            "condition:N",
+            title=None,
+            sort=per_condition_counts["condition"].to_list(),
+        ),
+        x=alt.X("prompts:Q", title="prompts in the dataset"),
+        color=alt.condition(
+            alt.datum.condition == condition,
+            alt.value("crimson"),
+            alt.value("#4C72B0"),
+        ),
+        tooltip=[
+            alt.Tooltip("condition:N", title="condition"),
+            alt.Tooltip("prompts:Q", format=",", title="prompts"),
+        ],
+    ).properties(
+        width=520,
+        height=24 * per_condition_counts.height + 20,
+        title=f"Prompts per element combination ({language.value})",
+    )
+    return (design,)
+
+
+@app.cell
+def _(alt, design, dimension, pl):
+    audience = design.filter(pl.col("dimension") != "none")
+    field = "dimension" if dimension.value is None else "group"
+    if dimension.value:
+        audience = audience.filter(pl.col("dimension") == dimension.value)
+
+    audience_counts = audience.group_by(field).len("prompts").sort(
+        "prompts", descending=True
+    )
+
+    alt.Chart(audience_counts).mark_bar(height=14, color="#DD8452").encode(
+        y=alt.Y(f"{field}:N", title=None, sort=audience_counts[field].to_list()),
+        x=alt.X("prompts:Q", title="prompts in the dataset"),
+        tooltip=[
+            alt.Tooltip(f"{field}:N", title=field),
+            alt.Tooltip("prompts:Q", format=",", title="prompts"),
+        ],
+    ).properties(
+        width=520,
+        height=24 * audience_counts.height + 20,
+        title=(
+            "Prompts per sociodemographic dimension"
+            if dimension.value is None
+            else f"Groups within {dimension.value.replace('_', ' ')}"
+        ),
+    )
+    return
+
+
+@app.cell
+def _(condition, language, local, mo, pl, stance):
+    shown_stance = stance.value or "FAVOR"
+    stance_words = {"FAVOR": "in favor", "AGAINST": "against"}
+    example = local("prompt_examples.csv").filter(
+        (pl.col("language") == language.value)
+        & (pl.col("condition") == condition)
+        & (pl.col("stance") == shown_stance)
+    )
+    mo.stop(
+        example.is_empty(),
+        mo.md("No example prompt for this combination."),
+    )
+
+    title = (
+        f"Read a real `{condition}` prompt ({stance_words[shown_stance]}, "
+        f"group: {example['group'][0]})"
+    )
+    mo.accordion({title: mo.plain_text(example['prompt'][0])})
+    return
+
+
+@app.cell
+def _(condition, design, language, local, mo, pl):
+    prompt_rows = (
+        design.filter(pl.col("condition") == condition)
+        .join(
+            local("prompt_questions.csv").filter(
+                pl.col("language") == language.value
+            ),
+            on=["language", "qid"],
+            how="left",
+        )
+        .select("id", "stance", "dimension", "group", "chars", "question")
+        .sort("id")
+    )
+    mo.vstack(
+        [
+            mo.md(
+                f"**{prompt_rows.height} prompts** in condition `{condition}`."
+                " Search the table."
+            ),
+            mo.ui.table(prompt_rows, selection=None, page_size=6),
+        ]
+    )
+    return
 
 
 @app.cell
